@@ -1,0 +1,1727 @@
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] ERROR.VARIANT.save Data truncated for column 'units' at row 1
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: SA00266 - JAMÓN DE PAVO CUBICADO CONFI
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] ERROR.VARIANT.save Data truncated for column 'units' at row 1
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: SA00046 - JAMÓN DE PIERNA RYC LÍNEA EUROPEA
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] ERROR.VARIANT.save Data truncated for column 'units' at row 1
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: SA00056 - JAMÓN DE PAVO CONFI
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] ERROR.VARIANT.save Data truncated for column 'units' at row 1
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: SA00051 - JAMÓN COCIDO CONFI
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] ERROR.VARIANT.save Data truncated for column 'units' at row 1
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: SA00240 - CHORIZO INSTITUCIONAL RYC
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] ERROR.VARIANT.save Data truncated for column 'units' at row 1
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: SA00022 - CHORIZO PARA ASAR RYC
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] ERROR.VARIANT.save Incorrect integer value: ' 6 paq' for column 'units' at row 1
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: XY00855  - QUESO OVEJERO DE ATLIXCO
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] ERROR.VARIANT.save Data truncated for column 'units' at row 1
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: XY00859 - QUESO OVEJERO DE ATLIXCO
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] ERROR.VARIANT.save Data truncated for column 'units' at row 1
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: XY00857 - QUESO OVEJERO DE ATLIXCO
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] ERROR.VARIANT.save Data truncated for column 'units' at row 1
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: XY00853 - QUESO OVEJERO DE ATLIXCO
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] ERROR.VARIANT.save Data truncated for column 'units' at row 1
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: XY00440 - QUESO GOUDA
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:43:10-05:00 [LogApp] [187.190.204.8] ERROR.VARIANT.save Data truncated for column 'units' at row 1
+2021-09-07T09:50:34-05:00 [LogApp] [187.190.204.8] ACTION: GetCategories
+2021-09-07T09:50:34-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetCategories
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a acción: insert
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: RE00369 - TROZOS DE RES SIN HUESO
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: CE00321 - TROZOS DE CERDO SIN HUESO
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: P000023 - PECHUGA DE POLLO SIN HUESO CORTE MARIPOSA
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: PR00299 - HAMBURGUESA SIRLOIN PREMIUM
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: PR00302 - CARNE MOLIDA DE CERDO
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: PR00238 - CARNE MOLIDA RES Y CERDO
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: PR00246 - CARNE MOLIDA RES Y CERDO
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: PR00243  - HAMBURGUESA PRACTI CHEF
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: PR00049 - HAMBURGUESA PRACTI CHEF
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: PR00305 - HAMBURGUESA PRACTI CHEF
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: PR00300 - HAMBURGUESA SIRLOIN PREMIUM
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: PR00329 - ARRACHERA MARINADA PORCIONADA
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: PR00073 - ARRACHERA MARINADA LONJA FRONTERA
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] ERROR.PRODUCT.save Duplicate entry 'Carne de res marinada, de textura suave y jugosa. Lonja entera i' for key 'description_b2b'
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: PR00188 - ARRACHERA MARINADA CONFI
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: PR00226 - ARRACHERA MARINADA
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] ERROR.PRODUCT.save Duplicate entry 'Arrachera nacional marinada, de buena textura y jugosa.' for key 'description_b2b'
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: PR00083 - ARRACHERA PIEDRAS NEGRAS
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] ERROR.PRODUCT.save Duplicate entry 'Carne de res marinada, de textura suave y jugosa. Lonja entera i' for key 'description_b2b'
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: SA00327 - TOCINO AHUMADO LAY-OUT
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: SA00296 - TOCINO AHUMADO REBANADO
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: SA00349 - TOCINO AHUMADO LAY-OUT MAPLE
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: SA00143 - TOCINO AHUMADO REBANADO LÍNEA EUROPEA
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] ERROR.PRODUCT.save Duplicate entry 'Producto elaborado de la panceta de cerdo, deshuesada, condiment' for key 'description_b2b'
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: SA00266 - JAMÓN DE PAVO CUBICADO CONFI
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: SA00046 - JAMÓN DE PIERNA RYC LÍNEA EUROPEA
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: SA00056 - JAMÓN DE PAVO CONFI
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: SA00051 - JAMÓN COCIDO CONFI
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: SA00240 - CHORIZO INSTITUCIONAL RYC
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: SA00022 - CHORIZO PARA ASAR RYC
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: XY00855  - QUESO OVEJERO DE ATLIXCO
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: XY00859 - QUESO OVEJERO DE ATLIXCO
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: XY00857 - QUESO OVEJERO DE ATLIXCO
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: XY00853 - QUESO OVEJERO DE ATLIXCO
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: XY00440 - QUESO GOUDA
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T09:50:39-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:33-05:00 [LogApp] [187.190.204.8] ACTION: GetCategories
+2021-09-07T10:53:33-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetCategories
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a acción: insert
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: RE00369 - TROZOS DE RES SIN HUESO
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: CE00321 - TROZOS DE CERDO SIN HUESO
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: P000023 - PECHUGA DE POLLO SIN HUESO CORTE MARIPOSA
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: PR00299 - HAMBURGUESA SIRLOIN PREMIUM
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: PR00302 - CARNE MOLIDA DE CERDO
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: PR00238 - CARNE MOLIDA RES Y CERDO
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: PR00246 - CARNE MOLIDA RES Y CERDO
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: PR00243  - HAMBURGUESA PRACTI CHEF
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: PR00049 - HAMBURGUESA PRACTI CHEF
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: PR00305 - HAMBURGUESA PRACTI CHEF
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: PR00300 - HAMBURGUESA SIRLOIN PREMIUM
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: PR00329 - ARRACHERA MARINADA PORCIONADA
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: PR00073 - ARRACHERA MARINADA LONJA FRONTERA
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] ERROR.PRODUCT.save Duplicate entry 'Carne de res marinada, de textura suave y jugosa. Lonja entera i' for key 'description_b2b'
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: PR00188 - ARRACHERA MARINADA CONFI
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: PR00226 - ARRACHERA MARINADA
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] ERROR.PRODUCT.save Duplicate entry 'Arrachera nacional marinada, de buena textura y jugosa.' for key 'description_b2b'
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: PR00083 - ARRACHERA PIEDRAS NEGRAS
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] ERROR.PRODUCT.save Duplicate entry 'Carne de res marinada, de textura suave y jugosa. Lonja entera i' for key 'description_b2b'
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: SA00327 - TOCINO AHUMADO LAY-OUT
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: SA00296 - TOCINO AHUMADO REBANADO
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: SA00349 - TOCINO AHUMADO LAY-OUT MAPLE
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: SA00143 - TOCINO AHUMADO REBANADO LÍNEA EUROPEA
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] ERROR.PRODUCT.save Duplicate entry 'Producto elaborado de la panceta de cerdo, deshuesada, condiment' for key 'description_b2b'
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: SA00266 - JAMÓN DE PAVO CUBICADO CONFI
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: SA00046 - JAMÓN DE PIERNA RYC LÍNEA EUROPEA
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: SA00056 - JAMÓN DE PAVO CONFI
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: SA00051 - JAMÓN COCIDO CONFI
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: SA00240 - CHORIZO INSTITUCIONAL RYC
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: SA00022 - CHORIZO PARA ASAR RYC
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: XY00855  - QUESO OVEJERO DE ATLIXCO
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a CATEGORY.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: XY00859 - QUESO OVEJERO DE ATLIXCO
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: XY00857 - QUESO OVEJERO DE ATLIXCO
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: XY00853 - QUESO OVEJERO DE ATLIXCO
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion login: XY00440 - QUESO GOUDA
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct6
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a PRODUCT.save
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a __construct8
+2021-09-07T10:53:42-05:00 [LogApp] [187.190.204.8] Entrando a VARIANT.save
+2021-09-07T13:25:58-05:00 [LogApp] [187.190.204.8] ACTION: GetCategories
+2021-09-07T13:25:58-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetCategories
+2021-09-07T13:32:56-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T13:32:56-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T14:04:56-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T14:04:56-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T14:30:40-05:00 [LogApp] [187.190.204.8] ACTION: GetCategories
+2021-09-07T14:30:40-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetCategories
+2021-09-07T14:30:40-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T14:30:40-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T14:30:40-05:00 [LogApp] [187.190.204.8] Obj de clase PRODUCT no encontrada: 
+2021-09-07T14:30:40-05:00 [LogApp] [187.190.204.8] ERROR.GET.PRODUCT. Exception: Problem preparing query (SELECT p.*, c.* FROM TBL_PRODUCT p INNER JOIN TBL_CATEGORY c v WHERE p.id_product = c.id_product WHERE p.id_product =  AND p.id_status=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'v WHERE p.id_product = c.id_product WHERE p.id_product =  AND p.id_status=1' at line 1 in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/productsController.php(62): MysqliDb->rawQuery('SELECT p.*, c.*...')
+#2 /home/vmiagen1/public_html/RYC/controller/productsController.php(99): GetProduct(NULL)
+#3 {main}
+2021-09-07T14:31:10-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T14:31:10-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T14:31:10-05:00 [LogApp] [187.190.204.8] ERROR.GET.PRODUCT. Exception: Problem preparing query (SELECT p.*, c.* FROM TBL_PRODUCT p INNER JOIN TBL_CATEGORY c v WHERE p.id_product = c.id_product WHERE p.id_product = 24 AND p.id_status=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'v WHERE p.id_product = c.id_product WHERE p.id_product = 24 AND p.id_status=1' at line 1 in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/productsController.php(62): MysqliDb->rawQuery('SELECT p.*, c.*...')
+#2 /home/vmiagen1/public_html/RYC/controller/productsController.php(99): GetProduct('24')
+#3 {main}
+2021-09-07T14:31:55-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T14:31:55-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T14:31:55-05:00 [LogApp] [187.190.204.8] ERROR.GET.PRODUCT. Exception: Problem preparing query (SELECT p.*, c.* FROM TBL_PRODUCT p INNER JOIN TBL_CATEGORY c WHERE p.id_product = c.id_product WHERE p.id_product = 24 AND p.id_status=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE p.id_product = 24 AND p.id_status=1' at line 1 in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/productsController.php(62): MysqliDb->rawQuery('SELECT p.*, c.*...')
+#2 /home/vmiagen1/public_html/RYC/controller/productsController.php(99): GetProduct('24')
+#3 {main}
+2021-09-07T14:34:03-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T14:34:03-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T14:34:03-05:00 [LogApp] [187.190.204.8] ERROR.GET.PRODUCT. Exception: Problem preparing query (SELECT p.*, c.* FROM TBL_PRODUCT p INNER JOIN TBL_CATEGORY c ON p.id_product = c.id_product WHERE p.id_product = 24 AND p.id_status=1) Unknown column 'c.id_product' in 'on clause' in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/productsController.php(62): MysqliDb->rawQuery('SELECT p.*, c.*...')
+#2 /home/vmiagen1/public_html/RYC/controller/productsController.php(99): GetProduct('24')
+#3 {main}
+2021-09-07T14:35:05-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T14:35:05-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T14:35:05-05:00 [LogApp] [187.190.204.8] ERROR.GET.PRODUCT. Exception: Problem preparing query (SELECT p.*, c.* FROM TBL_PRODUCT p INNER JOIN TBL_CATEGORY c ON p.id_product=c.id_product WHERE p.id_product= 24 AND p.id_status=1) Unknown column 'c.id_product' in 'on clause' in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/productsController.php(62): MysqliDb->rawQuery('SELECT p.*, c.*...')
+#2 /home/vmiagen1/public_html/RYC/controller/productsController.php(99): GetProduct('24')
+#3 {main}
+2021-09-07T14:36:02-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T14:36:02-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T14:37:52-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T14:37:52-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T14:49:15-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T14:49:15-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T14:59:20-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T14:59:20-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T14:59:20-05:00 [LogApp] [187.190.204.8] ERROR.GET.PRODUCT. Exception: Problem preparing query (SELECT p.*, c.name as subcategory_name, c.id_category as subcategory_id,(SELECT d.name FROM TBL_CATEGORY WHERE d.id_category=c.id_category_parent)  FROM TBL_PRODUCT p INNER JOIN TBL_CATEGORY c ON p.id_category=c.id_category WHERE p.id_product= 24 AND p.id_status=1) Unknown column 'd.name' in 'field list' in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/productsController.php(62): MysqliDb->rawQuery('SELECT p.*, c.n...')
+#2 /home/vmiagen1/public_html/RYC/controller/productsController.php(100): GetProduct('24')
+#3 {main}
+2021-09-07T15:00:12-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T15:00:12-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T15:06:57-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T15:06:57-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T15:06:57-05:00 [LogApp] [187.190.204.8] ERROR.GET.PRODUCT. Exception: Problem preparing query (SELECT c.name as category_name, c.id_category as category_id  FROM TBL_CATEGORY c WHERE c.id_product= ) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/productsController.php(63): MysqliDb->rawQuery('SELECT c.name a...')
+#2 /home/vmiagen1/public_html/RYC/controller/productsController.php(100): GetProduct('24')
+#3 {main}
+2021-09-07T15:07:38-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T15:07:38-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T15:07:38-05:00 [LogApp] [187.190.204.8] ERROR.GET.PRODUCT. Exception: Problem preparing query (SELECT c.name as category_name, c.id_category as category_id  FROM TBL_CATEGORY c WHERE c.id_product= 18) Unknown column 'c.id_product' in 'where clause' in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/productsController.php(63): MysqliDb->rawQuery('SELECT c.name a...')
+#2 /home/vmiagen1/public_html/RYC/controller/productsController.php(100): GetProduct('24')
+#3 {main}
+2021-09-07T15:08:07-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T15:08:07-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T15:10:35-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T15:10:35-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T15:13:03-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T15:13:03-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T15:16:51-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T15:16:51-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T15:32:48-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T15:32:48-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T15:39:21-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T15:39:21-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T15:40:19-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T15:40:19-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T15:43:59-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T15:43:59-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T15:54:38-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T15:54:38-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T15:55:47-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T15:55:47-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T16:08:26-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T16:08:26-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T16:24:58-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T16:24:58-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T16:25:29-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T16:25:29-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T16:47:57-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T16:47:57-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T16:48:21-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T16:48:21-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T16:50:15-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T16:50:15-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T16:57:29-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T16:57:29-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T16:59:32-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T16:59:32-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T17:01:04-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T17:01:04-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T17:41:16-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T17:41:16-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T17:42:01-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T17:42:01-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T17:45:30-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T17:45:30-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T17:48:24-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T17:48:24-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T17:52:34-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T17:52:34-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T18:03:01-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T18:03:01-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T18:16:45-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T18:16:45-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T18:17:20-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T18:17:20-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T18:19:48-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T18:19:48-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T18:21:04-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T18:21:04-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T18:22:07-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T18:22:07-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-07T18:22:51-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-07T18:22:51-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T08:43:56-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T08:43:56-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T08:44:38-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T08:44:38-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T08:45:36-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T08:45:36-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T09:12:12-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T09:12:12-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T09:13:06-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T09:13:06-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T09:16:53-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T09:16:53-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T09:56:59-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T09:56:59-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T09:58:35-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T09:58:35-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T10:04:43-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T10:04:43-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T10:07:39-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T10:07:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T10:15:11-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T10:15:11-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T10:18:35-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T10:18:35-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T10:20:35-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T10:20:35-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T10:22:03-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T10:22:03-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T10:24:29-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T10:24:29-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T10:29:36-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T10:29:36-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T10:32:11-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T10:32:11-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T10:36:27-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T10:36:27-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T10:37:55-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T10:37:55-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T10:39:47-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T10:39:47-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T10:44:31-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T10:44:31-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T10:56:21-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T10:56:21-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T11:00:08-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T11:00:08-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T11:00:39-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T11:00:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T11:00:57-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T11:00:57-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T12:21:54-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T12:21:54-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T12:21:54-05:00 [LogApp] [187.190.204.8] ERROR.GET.PRODUCT. Exception: Problem preparing query (SELECT i.* FROM TBL_IMG i WHERE i.id_product = 15 AND i.id_status=1 ORDER BY i.img_main DESC) Unknown column 'i.img_main' in 'order clause' in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/productsController.php(71): MysqliDb->rawQuery('SELECT i.* FROM...')
+#2 /home/vmiagen1/public_html/RYC/controller/productsController.php(105): GetProduct('15')
+#3 {main}
+2021-09-08T12:22:42-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T12:22:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T12:27:31-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T12:27:31-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T12:28:00-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T12:28:00-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T12:28:47-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T12:28:47-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T12:28:47-05:00 [LogApp] [187.190.204.8] Obj de clase PRODUCT no encontrada: 
+2021-09-08T12:28:47-05:00 [LogApp] [187.190.204.8] ERROR.GET.PRODUCT. Exception: Problem preparing query (SELECT p.*, c.name as subcategory_name, c.id_category_parent as parent_category_id  FROM TBL_PRODUCT p INNER JOIN TBL_CATEGORY c ON p.id_category=c.id_category WHERE p.id_product=  AND p.id_status=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND p.id_status=1' at line 1 in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/productsController.php(63): MysqliDb->rawQuery('SELECT p.*, c.n...')
+#2 /home/vmiagen1/public_html/RYC/controller/productsController.php(105): GetProduct(NULL)
+#3 {main}
+2021-09-08T12:34:38-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T12:34:38-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T12:34:38-05:00 [LogApp] [187.190.204.8] Obj de clase PRODUCT no encontrada: 
+2021-09-08T12:34:38-05:00 [LogApp] [187.190.204.8] ERROR.GET.PRODUCT. Exception: Problem preparing query (SELECT p.*, c.name as subcategory_name, c.id_category_parent as parent_category_id  FROM TBL_PRODUCT p INNER JOIN TBL_CATEGORY c ON p.id_category=c.id_category WHERE p.id_product=  AND p.id_status=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND p.id_status=1' at line 1 in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/productsController.php(63): MysqliDb->rawQuery('SELECT p.*, c.n...')
+#2 /home/vmiagen1/public_html/RYC/controller/productsController.php(105): GetProduct(NULL)
+#3 {main}
+2021-09-08T12:35:11-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T12:35:11-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T12:35:11-05:00 [LogApp] [187.190.204.8] Obj de clase PRODUCT no encontrada: 
+2021-09-08T12:35:11-05:00 [LogApp] [187.190.204.8] ERROR.GET.PRODUCT. Exception: Problem preparing query (SELECT p.*, c.name as subcategory_name, c.id_category_parent as parent_category_id  FROM TBL_PRODUCT p INNER JOIN TBL_CATEGORY c ON p.id_category=c.id_category WHERE p.id_product=  AND p.id_status=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND p.id_status=1' at line 1 in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/productsController.php(63): MysqliDb->rawQuery('SELECT p.*, c.n...')
+#2 /home/vmiagen1/public_html/RYC/controller/productsController.php(105): GetProduct(NULL)
+#3 {main}
+2021-09-08T12:37:04-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T12:37:04-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T12:45:54-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T12:45:54-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T14:22:54-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T14:22:54-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T14:22:54-05:00 [LogApp] [187.190.204.8] Obj de clase PRODUCT no encontrada: 
+2021-09-08T14:22:54-05:00 [LogApp] [187.190.204.8] ERROR.GET.PRODUCT. Exception: Problem preparing query (SELECT p.*, c.name as subcategory_name, c.id_category_parent as parent_category_id  FROM TBL_PRODUCT p INNER JOIN TBL_CATEGORY c ON p.id_category=c.id_category WHERE p.id_product=  AND p.id_status=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND p.id_status=1' at line 1 in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/productsController.php(104): MysqliDb->rawQuery('SELECT p.*, c.n...')
+#2 /home/vmiagen1/public_html/RYC/controller/productsController.php(149): GetProduct(NULL)
+#3 {main}
+2021-09-08T14:23:48-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T14:23:48-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T14:23:48-05:00 [LogApp] [187.190.204.8] Obj de clase PRODUCT no encontrada: 
+2021-09-08T14:23:48-05:00 [LogApp] [187.190.204.8] ERROR.GET.PRODUCT. Exception: Problem preparing query (SELECT p.*, c.name as subcategory_name, c.id_category_parent as parent_category_id  FROM TBL_PRODUCT p INNER JOIN TBL_CATEGORY c ON p.id_category=c.id_category WHERE p.id_product=  AND p.id_status=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND p.id_status=1' at line 1 in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/productsController.php(104): MysqliDb->rawQuery('SELECT p.*, c.n...')
+#2 /home/vmiagen1/public_html/RYC/controller/productsController.php(149): GetProduct(NULL)
+#3 {main}
+2021-09-08T14:24:26-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-08T14:25:11-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T14:25:11-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T14:25:11-05:00 [LogApp] [187.190.204.8] Obj de clase PRODUCT no encontrada: 
+2021-09-08T14:25:11-05:00 [LogApp] [187.190.204.8] ERROR.GET.PRODUCT. Exception: Problem preparing query (SELECT p.*, c.name as subcategory_name, c.id_category_parent as parent_category_id  FROM TBL_PRODUCT p INNER JOIN TBL_CATEGORY c ON p.id_category=c.id_category WHERE p.id_product=  AND p.id_status=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND p.id_status=1' at line 1 in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/productsController.php(101): MysqliDb->rawQuery('SELECT p.*, c.n...')
+#2 /home/vmiagen1/public_html/RYC/controller/productsController.php(146): GetProduct(NULL)
+#3 {main}
+2021-09-08T14:25:21-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-08T14:26:31-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-08T14:27:20-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T14:27:20-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T14:27:20-05:00 [LogApp] [187.190.204.8] Obj de clase PRODUCT no encontrada: 
+2021-09-08T14:27:20-05:00 [LogApp] [187.190.204.8] ERROR.GET.PRODUCT. Exception: Problem preparing query (SELECT p.*, c.name as subcategory_name, c.id_category_parent as parent_category_id  FROM TBL_PRODUCT p INNER JOIN TBL_CATEGORY c ON p.id_category=c.id_category WHERE p.id_product=  AND p.id_status=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND p.id_status=1' at line 1 in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/productsController.php(101): MysqliDb->rawQuery('SELECT p.*, c.n...')
+#2 /home/vmiagen1/public_html/RYC/controller/productsController.php(146): GetProduct(NULL)
+#3 {main}
+2021-09-08T14:27:30-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-08T14:28:43-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T14:28:43-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T14:28:43-05:00 [LogApp] [187.190.204.8] Obj de clase PRODUCT no encontrada: 
+2021-09-08T14:28:43-05:00 [LogApp] [187.190.204.8] ERROR.GET.PRODUCT. Exception: Problem preparing query (SELECT p.*, c.name as subcategory_name, c.id_category_parent as parent_category_id  FROM TBL_PRODUCT p INNER JOIN TBL_CATEGORY c ON p.id_category=c.id_category WHERE p.id_product=  AND p.id_status=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND p.id_status=1' at line 1 in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/productsController.php(101): MysqliDb->rawQuery('SELECT p.*, c.n...')
+#2 /home/vmiagen1/public_html/RYC/controller/productsController.php(146): GetProduct(NULL)
+#3 {main}
+2021-09-08T14:28:58-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-08T14:28:58-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-08T14:48:11-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T14:48:11-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T14:48:11-05:00 [LogApp] [187.190.204.8] Obj de clase PRODUCT no encontrada: 
+2021-09-08T14:48:11-05:00 [LogApp] [187.190.204.8] ERROR.GET.PRODUCT. Exception: Problem preparing query (SELECT p.*, c.name as subcategory_name, c.id_category_parent as parent_category_id  FROM TBL_PRODUCT p INNER JOIN TBL_CATEGORY c ON p.id_category=c.id_category WHERE p.id_product=  AND p.id_status=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND p.id_status=1' at line 1 in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/productsController.php(101): MysqliDb->rawQuery('SELECT p.*, c.n...')
+#2 /home/vmiagen1/public_html/RYC/controller/productsController.php(146): GetProduct(NULL)
+#3 {main}
+2021-09-08T14:48:55-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T14:48:55-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T14:48:55-05:00 [LogApp] [187.190.204.8] Obj de clase PRODUCT no encontrada: 
+2021-09-08T14:48:55-05:00 [LogApp] [187.190.204.8] ERROR.GET.PRODUCT. Exception: Problem preparing query (SELECT p.*, c.name as subcategory_name, c.id_category_parent as parent_category_id  FROM TBL_PRODUCT p INNER JOIN TBL_CATEGORY c ON p.id_category=c.id_category WHERE p.id_product=  AND p.id_status=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND p.id_status=1' at line 1 in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/productsController.php(101): MysqliDb->rawQuery('SELECT p.*, c.n...')
+#2 /home/vmiagen1/public_html/RYC/controller/productsController.php(146): GetProduct(NULL)
+#3 {main}
+2021-09-08T14:52:27-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T14:52:27-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T14:52:27-05:00 [LogApp] [187.190.204.8] Obj de clase PRODUCT no encontrada: 
+2021-09-08T14:52:27-05:00 [LogApp] [187.190.204.8] ERROR.GET.PRODUCT. Exception: Problem preparing query (SELECT p.*, c.name as subcategory_name, c.id_category_parent as parent_category_id  FROM TBL_PRODUCT p INNER JOIN TBL_CATEGORY c ON p.id_category=c.id_category WHERE p.id_product=  AND p.id_status=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND p.id_status=1' at line 1 in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/productsController.php(101): MysqliDb->rawQuery('SELECT p.*, c.n...')
+#2 /home/vmiagen1/public_html/RYC/controller/productsController.php(146): GetProduct(NULL)
+#3 {main}
+2021-09-08T14:52:46-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T14:52:46-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T14:53:40-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T14:53:40-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T14:53:40-05:00 [LogApp] [187.190.204.8] Obj de clase PRODUCT no encontrada: 
+2021-09-08T14:53:40-05:00 [LogApp] [187.190.204.8] ERROR.GET.PRODUCT. Exception: Problem preparing query (SELECT p.*, c.name as subcategory_name, c.id_category_parent as parent_category_id  FROM TBL_PRODUCT p INNER JOIN TBL_CATEGORY c ON p.id_category=c.id_category WHERE p.id_product=  AND p.id_status=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND p.id_status=1' at line 1 in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/productsController.php(101): MysqliDb->rawQuery('SELECT p.*, c.n...')
+#2 /home/vmiagen1/public_html/RYC/controller/productsController.php(146): GetProduct(NULL)
+#3 {main}
+2021-09-08T14:57:26-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-08T14:57:26-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-08T14:57:26-05:00 [LogApp] [187.190.204.8] Obj de clase PRODUCT no encontrada: 
+2021-09-08T14:57:26-05:00 [LogApp] [187.190.204.8] ERROR.GET.PRODUCT. Exception: Problem preparing query (SELECT p.*, c.name as subcategory_name, c.id_category_parent as parent_category_id  FROM TBL_PRODUCT p INNER JOIN TBL_CATEGORY c ON p.id_category=c.id_category WHERE p.id_product=  AND p.id_status=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND p.id_status=1' at line 1 in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/productsController.php(101): MysqliDb->rawQuery('SELECT p.*, c.n...')
+#2 /home/vmiagen1/public_html/RYC/controller/productsController.php(146): GetProduct(NULL)
+#3 {main}
+2021-09-08T15:01:19-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-08T15:01:19-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-08T15:31:39-05:00 [LogApp] [187.190.204.8] ACTION: getSubs
+2021-09-08T15:33:03-05:00 [LogApp] [187.190.204.8] ACTION: getSubs
+2021-09-08T15:34:24-05:00 [LogApp] [187.190.204.8] ACTION: getSubs
+2021-09-08T15:35:39-05:00 [LogApp] [187.190.204.8] ACTION: getSubs
+2021-09-08T15:37:06-05:00 [LogApp] [187.190.204.8] ACTION: getSubs
+2021-09-08T15:37:55-05:00 [LogApp] [187.190.204.8] ACTION: getSubs
+2021-09-08T15:39:20-05:00 [LogApp] [187.190.204.8] ACTION: getSubs
+2021-09-08T15:40:54-05:00 [LogApp] [187.190.204.8] ACTION: getSubs
+2021-09-08T15:43:36-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-08T15:43:36-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-08T15:44:12-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-08T15:44:12-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-08T15:44:40-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-08T15:44:40-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-08T15:46:00-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-08T15:46:00-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-08T15:46:48-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-08T15:46:48-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-08T15:48:17-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-08T15:48:17-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-08T15:49:12-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-08T15:49:12-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-08T15:50:24-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-08T15:50:24-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-08T15:57:05-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-08T15:57:05-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-08T15:59:27-05:00 [LogApp] [187.190.204.8] ACTION: GetCategories
+2021-09-08T15:59:27-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetCategories
+2021-09-08T16:00:22-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-08T16:00:22-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-08T16:01:48-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-08T16:01:48-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-08T17:34:38-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-08T17:34:38-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-08T17:34:38-05:00 [LogApp] [187.190.204.8] ERROR.GET.SUBCATEGORY. Exception: Problem preparing query (SELECT c.* distinct c.name FROM TBL_CATEGORY c WHERE c.id_category_parent IS NOT NULL AND c.id_status=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'distinct c.name FROM TBL_CATEGORY c WHERE c.id_category_parent IS NOT NULL AND c' at line 1 in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/categoryController.php(116): MysqliDb->rawQuery('SELECT c.* dist...')
+#2 /home/vmiagen1/public_html/RYC/controller/categoryController.php(156): GetSubs()
+#3 {main}
+2021-09-08T17:37:09-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-08T17:37:09-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-08T17:47:57-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-08T17:47:57-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-08T17:47:57-05:00 [LogApp] [187.190.204.8] ERROR.GET.SUBCATEGORY. Exception: Problem preparing query (SELECT Count(*) AS count_product FROM TBL_PRODUCT WHERE TBL_PRODUCT.id_category =  AND TBL_PRODUCT.id_status=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND TBL_PRODUCT.id_status=1' at line 1 in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/categoryController.php(120): MysqliDb->rawQuery('SELECT Count(*)...')
+#2 /home/vmiagen1/public_html/RYC/controller/categoryController.php(160): GetSubs()
+#3 {main}
+2021-09-08T18:00:32-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-08T18:00:32-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-08T18:00:32-05:00 [LogApp] [187.190.204.8] ERROR.GET.SUBCATEGORY. Exception: Problem preparing query (SELECT Count(*) AS count_products FROM TBL_CATEGORY c INNER JOIN TBL_PRODUCTS p ON p.id_category=c.id_category WHERE c.name=SALCHICHONERÍA AND p.id_status=1) Table 'vmiagen1_ryc_food_service.TBL_PRODUCTS' doesn't exist in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/categoryController.php(121): MysqliDb->rawQuery('SELECT Count(*)...')
+#2 /home/vmiagen1/public_html/RYC/controller/categoryController.php(161): GetSubs()
+#3 {main}
+2021-09-08T18:01:16-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-08T18:01:16-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-08T18:01:16-05:00 [LogApp] [187.190.204.8] ERROR.GET.SUBCATEGORY. Exception: Problem preparing query (SELECT Count(*) AS count_products FROM TBL_CATEGORY c INNER JOIN TBL_PRODUCT p ON p.id_category=c.id_category WHERE c.name=SALCHICHONERÍA AND p.id_status=1) Unknown column 'SALCHICHONERÍA' in 'where clause' in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/categoryController.php(121): MysqliDb->rawQuery('SELECT Count(*)...')
+#2 /home/vmiagen1/public_html/RYC/controller/categoryController.php(161): GetSubs()
+#3 {main}
+2021-09-08T18:02:40-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-08T18:02:40-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T08:35:14-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-09T08:35:14-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-09T08:44:55-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T08:44:55-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T08:45:05-05:00 [LogApp] [187.190.204.8] ACTION: GetCategories
+2021-09-09T08:45:05-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetCategories
+2021-09-09T09:28:13-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T09:28:13-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T09:28:19-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T09:28:19-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T09:49:13-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T09:49:13-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T09:52:24-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T09:52:24-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T09:54:55-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T09:54:55-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T10:03:51-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T10:03:51-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T10:32:28-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T10:32:28-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T10:32:42-05:00 [LogApp] [66.249.64.247] ACTION: GetProductAll
+2021-09-09T10:32:42-05:00 [LogApp] [66.249.64.247] Entrando a funcion GetProductsAll
+2021-09-09T10:35:55-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T10:35:55-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T10:37:13-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T10:37:13-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T10:38:08-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T10:38:08-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T10:39:02-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T10:39:02-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T10:39:02-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T10:39:02-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T10:49:55-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T10:49:55-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T10:49:56-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T10:49:56-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T11:04:39-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T11:04:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T11:04:39-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T11:04:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T11:05:48-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-09T11:05:48-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-09T11:05:48-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T11:05:48-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T11:05:58-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T11:05:58-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T11:05:58-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T11:05:58-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T11:09:27-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-09T11:09:27-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-09T11:09:27-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T11:09:27-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T11:11:26-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T11:11:26-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T11:11:26-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T11:11:26-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T11:52:44-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T11:52:44-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T11:52:44-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T11:52:44-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T12:06:13-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T12:06:13-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T12:06:13-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T12:06:13-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T12:07:09-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T12:07:09-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T12:07:09-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T12:07:09-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T12:19:01-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T12:19:01-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T12:19:01-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T12:19:01-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T12:20:14-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T12:20:14-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T12:20:14-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T12:20:14-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T12:25:39-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T12:25:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T12:25:39-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T12:25:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T12:26:09-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T12:26:09-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T12:26:09-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T12:26:09-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T12:28:13-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T12:28:13-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T12:28:13-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T12:28:13-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T12:32:47-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-09T12:32:47-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-09T12:32:47-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T12:32:47-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T12:33:07-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T12:33:07-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T12:33:07-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T12:33:07-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T13:29:33-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T13:29:33-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T13:29:33-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T13:29:33-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T13:31:51-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-09T13:31:51-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-09T13:32:03-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T13:32:03-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T13:33:05-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T13:33:05-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T13:45:36-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T13:45:36-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T13:45:36-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T13:45:36-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T13:45:55-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T13:45:55-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T13:45:55-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-09T13:45:55-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-09T13:46:10-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T13:46:10-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T13:46:10-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T13:46:10-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T13:50:32-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T13:50:32-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T13:50:32-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T13:50:32-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T13:50:54-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T13:50:54-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T13:50:55-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T13:50:55-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T13:51:32-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T13:51:32-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T13:51:32-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T13:51:32-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T13:52:07-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T13:52:07-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T13:52:07-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T13:52:07-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T13:52:32-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T13:52:32-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T13:52:32-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T13:52:32-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T13:53:09-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T13:53:09-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T13:53:09-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T13:53:09-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T13:54:22-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-09T13:54:22-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-09T13:54:22-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T13:54:22-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T13:54:34-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T13:54:34-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T13:54:34-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T13:54:34-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T13:55:44-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T13:55:44-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T13:56:18-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T13:56:18-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T13:56:18-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T13:56:18-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T13:56:44-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T13:56:44-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T13:57:19-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T13:57:19-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T13:57:19-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T13:57:19-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T13:57:29-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-09T13:57:29-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-09T13:57:29-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T13:57:29-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T13:57:46-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T13:57:46-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T14:06:24-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T14:06:24-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T14:29:09-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T14:29:09-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T14:34:25-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T14:34:25-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T14:35:06-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T14:35:06-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T14:35:44-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T14:35:44-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T14:36:13-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T14:36:13-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T14:36:13-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T14:36:13-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T14:37:16-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T14:37:16-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T14:37:16-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T14:37:16-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T14:38:51-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T14:38:51-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T14:40:09-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T14:40:09-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T14:40:09-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T14:40:09-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T14:40:45-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T14:40:45-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T14:40:46-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T14:40:46-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T14:42:49-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T14:42:49-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T14:44:04-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T14:44:04-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T14:44:04-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T14:44:04-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T14:44:52-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-09T14:44:52-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-09T14:44:52-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T14:44:52-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T14:45:30-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T14:45:30-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T14:45:30-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T14:45:30-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T14:51:25-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T14:51:25-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T14:51:26-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T14:51:26-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T14:51:45-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T14:51:45-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T14:51:45-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T14:51:45-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T14:52:33-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T14:52:33-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T14:52:33-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T14:52:33-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T14:55:29-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-09T14:55:29-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-09T14:55:38-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T14:55:38-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T14:55:38-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T14:55:38-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T14:57:05-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T14:57:05-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T14:57:05-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T14:57:05-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T14:58:12-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T14:58:12-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T14:58:12-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T14:58:12-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T14:58:44-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T14:58:44-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T14:59:22-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T14:59:22-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T15:02:34-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T15:02:34-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T15:02:34-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T15:02:34-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T15:02:41-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T15:02:41-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T15:02:41-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T15:02:41-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T15:03:03-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T15:03:03-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T15:03:03-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T15:03:03-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T15:03:12-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T15:03:12-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T15:04:33-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T15:04:33-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T15:04:40-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T15:04:40-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T15:04:54-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T15:04:54-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T15:04:54-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T15:04:54-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T15:06:00-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-09T15:06:00-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-09T15:06:31-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T15:06:31-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T15:06:31-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T15:06:31-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T15:06:39-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T15:06:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T15:34:09-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-09T15:34:09-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-09T15:34:09-05:00 [LogApp] [187.190.204.8] ERROR.GET.PRODUCTS. Exception: Problem preparing query (SELECT p.* FROM TBL_CATEGORY c INNER JOIN TBL_PRODUCT p ON p.id_category=c.id_category WHERE c.name=LÁCTEOS AND p.id_status=1) Unknown column 'LÁCTEOS' in 'where clause' in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/productsController.php(31): MysqliDb->rawQuery('SELECT p.* FROM...')
+#2 /home/vmiagen1/public_html/RYC/controller/productsController.php(166): GetProducts('L\xC3\x81CTEOS')
+#3 {main}
+2021-09-09T15:34:09-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T15:34:09-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T15:35:03-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-09T15:35:03-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-09T15:35:03-05:00 [LogApp] [187.190.204.8] ERROR.GET.PRODUCTS. Exception: Problem preparing query (SELECT p.* FROM TBL_CATEGORY c INNER JOIN TBL_PRODUCT p ON p.id_category=c.id_category WHERE c.name=LÁCTEOS AND p.id_status=1) Unknown column 'LÁCTEOS' in 'where clause' in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:2951
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#1 /home/vmiagen1/public_html/RYC/controller/productsController.php(31): MysqliDb->rawQuery('SELECT p.* FROM...')
+#2 /home/vmiagen1/public_html/RYC/controller/productsController.php(166): GetProducts('L\xC3\x81CTEOS')
+#3 {main}
+2021-09-09T15:35:03-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T15:35:03-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T15:36:01-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T15:36:01-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T15:37:05-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T15:37:05-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T15:37:48-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T15:37:48-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T15:38:57-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T15:38:57-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T15:39:48-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T15:39:48-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T15:39:48-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-09T15:39:48-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-09T15:40:23-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-09T15:40:23-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-09T15:40:23-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T15:40:23-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T15:40:36-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-09T15:40:36-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-09T15:40:36-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T15:40:36-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T15:43:36-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-09T15:43:36-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-09T15:43:36-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T15:43:36-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T15:44:05-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-09T15:44:05-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-09T15:44:05-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T15:44:05-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T15:45:04-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-09T15:45:04-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-09T15:45:16-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T15:45:16-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T15:45:16-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T15:45:16-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T15:46:45-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-09T15:46:45-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-09T15:46:45-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T15:46:45-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T15:52:14-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T15:52:14-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T15:52:15-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T15:52:15-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T15:57:50-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T15:57:50-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T15:57:50-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T15:57:50-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T16:00:16-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T16:00:16-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T16:00:16-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T16:00:16-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T16:01:26-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T16:01:26-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T16:01:26-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T16:01:26-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T16:01:36-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T16:01:36-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T16:37:50-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T16:37:50-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T16:38:27-05:00 [LogApp] [187.190.204.8] ACTION: GetSearch
+2021-09-09T16:38:27-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSearch
+2021-09-09T16:38:27-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T16:38:27-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T16:38:36-05:00 [LogApp] [187.190.204.8] ACTION: GetSearch
+2021-09-09T16:38:36-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSearch
+2021-09-09T16:38:36-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T16:38:36-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T16:39:11-05:00 [LogApp] [187.190.204.8] ACTION: GetSearch
+2021-09-09T16:39:11-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSearch
+2021-09-09T16:39:11-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T16:39:11-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T16:39:29-05:00 [LogApp] [187.190.204.8] ACTION: GetSearch
+2021-09-09T16:39:29-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSearch
+2021-09-09T16:39:29-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T16:39:29-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T16:39:46-05:00 [LogApp] [187.190.204.8] ACTION: GetSearch
+2021-09-09T16:39:46-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSearch
+2021-09-09T16:39:46-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T16:39:46-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T16:40:12-05:00 [LogApp] [187.190.204.8] ACTION: GetSearch
+2021-09-09T16:40:12-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSearch
+2021-09-09T16:40:12-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T16:40:12-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T16:40:35-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-09T16:40:35-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-09T16:40:35-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T16:40:35-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T16:41:08-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-09T16:41:08-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-09T16:41:08-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T16:41:08-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T16:41:15-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-09T16:41:15-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-09T16:41:15-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T16:41:15-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T16:54:42-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T16:54:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T16:54:42-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T16:54:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T16:55:24-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-09T16:55:24-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-09T16:55:33-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-09T16:55:33-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-09T16:55:33-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T16:55:33-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T16:56:17-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-09T16:56:17-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-09T16:56:17-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T16:56:17-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T16:58:19-05:00 [LogApp] [187.190.204.8] ACTION: GetSearch
+2021-09-09T16:58:19-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSearch
+2021-09-09T16:58:19-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T16:58:19-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T16:58:47-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-09T16:58:47-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-09T16:58:47-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-09T16:58:47-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-09T16:59:14-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-09T16:59:14-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-10T08:22:39-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-10T08:22:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-10T08:22:39-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T08:22:39-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T08:22:50-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-10T08:22:50-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-10T08:22:50-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T08:22:50-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T08:23:08-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-10T08:23:08-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-10T08:23:08-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T08:23:08-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T08:23:21-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-10T08:23:21-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-10T08:23:21-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T08:23:21-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T08:24:11-05:00 [LogApp] [187.190.204.8] ACTION: GetSearch
+2021-09-10T08:24:11-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSearch
+2021-09-10T08:24:11-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T08:24:11-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T08:24:19-05:00 [LogApp] [187.190.204.8] ACTION: GetSearch
+2021-09-10T08:24:19-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSearch
+2021-09-10T08:24:19-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T08:24:19-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T08:24:25-05:00 [LogApp] [187.190.204.8] ACTION: GetSearch
+2021-09-10T08:24:25-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSearch
+2021-09-10T08:24:25-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T08:24:25-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T08:25:17-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-10T08:25:17-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-10T08:25:45-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-10T08:25:45-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-10T08:25:45-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T08:25:45-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T08:26:53-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-10T08:26:53-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-10T08:26:53-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T08:26:53-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T08:27:29-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-10T08:27:29-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-10T08:27:29-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T08:27:29-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T08:27:45-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-10T08:27:45-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-10T08:27:45-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T08:27:45-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T08:28:18-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-10T08:28:18-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-10T08:38:18-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-10T08:38:18-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-10T08:50:29-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-10T08:50:29-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-10T08:50:29-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T08:50:29-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T08:50:51-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-10T08:50:51-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-10T08:50:51-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T08:50:51-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T08:51:42-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-10T08:51:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-10T08:52:20-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-10T08:52:20-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-10T08:52:21-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-10T08:52:21-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-10T08:54:42-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-10T08:54:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-10T08:54:42-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-10T08:54:42-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-10T08:55:18-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-10T08:55:18-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-10T08:55:18-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-10T08:55:18-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-10T08:58:56-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-10T08:58:56-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-10T08:58:57-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-10T08:58:57-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-10T08:59:43-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-10T08:59:43-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-10T08:59:44-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T08:59:44-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T08:59:51-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-10T08:59:51-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-10T08:59:51-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T08:59:51-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T08:59:58-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-10T08:59:58-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-10T08:59:58-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-10T08:59:58-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-10T09:03:54-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-10T09:03:54-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-10T09:03:54-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T09:03:54-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T09:04:17-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-10T09:04:17-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-10T09:04:18-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-10T09:04:18-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-10T09:04:26-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-10T09:04:26-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-10T09:04:26-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T09:04:26-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T09:04:40-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-10T09:04:40-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-10T09:04:40-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T09:04:40-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T09:07:13-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-10T09:07:13-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-10T09:07:13-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T09:07:13-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T09:07:58-05:00 [LogApp] [187.190.204.8] ACTION: GetSearch
+2021-09-10T09:07:58-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSearch
+2021-09-10T09:07:58-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T09:07:58-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T09:08:04-05:00 [LogApp] [187.190.204.8] ACTION: GetSearch
+2021-09-10T09:08:04-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSearch
+2021-09-10T09:08:04-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T09:08:04-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T09:08:22-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-10T09:08:22-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-10T09:08:22-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-10T09:08:22-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-10T09:08:33-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-10T09:08:33-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-10T09:08:33-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-10T09:08:33-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-10T09:08:55-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-10T09:08:55-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-10T09:08:55-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T09:08:55-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T09:11:31-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-10T09:11:31-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-10T09:11:31-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T09:11:31-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T09:12:00-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-10T09:12:00-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-10T09:12:01-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T09:12:01-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T09:12:09-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-10T09:12:09-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-10T09:12:09-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T09:12:09-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T09:12:40-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-10T09:12:40-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-10T09:12:40-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T09:12:40-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T09:16:45-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-10T09:16:45-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-10T09:16:45-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T09:16:45-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T09:17:03-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-10T09:17:03-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-10T09:17:03-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T09:17:03-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T09:17:15-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-10T09:17:15-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-10T09:17:15-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T09:17:15-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T09:18:29-05:00 [LogApp] [187.190.204.8] ACTION: GetSearch
+2021-09-10T09:18:29-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSearch
+2021-09-10T09:18:29-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T09:18:29-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T09:18:37-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-10T09:18:37-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-10T09:18:37-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T09:18:37-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T09:18:46-05:00 [LogApp] [187.190.204.8] ACTION: GetProductAll
+2021-09-10T09:18:46-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProductsAll
+2021-09-10T09:18:46-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T09:18:46-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T09:21:38-05:00 [LogApp] [187.190.204.8] ACTION: GetSearch
+2021-09-10T09:21:38-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSearch
+2021-09-10T09:21:38-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T09:21:38-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T09:21:55-05:00 [LogApp] [187.190.204.8] ACTION: GetSearch
+2021-09-10T09:21:55-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSearch
+2021-09-10T09:21:55-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T09:21:55-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T09:22:05-05:00 [LogApp] [187.190.204.8] ACTION: GetSearch
+2021-09-10T09:22:05-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSearch
+2021-09-10T09:22:05-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T09:22:05-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T09:22:18-05:00 [LogApp] [187.190.204.8] ACTION: GetSearch
+2021-09-10T09:22:18-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSearch
+2021-09-10T09:22:18-05:00 [LogApp] [187.190.204.8] ACTION: GetSubs
+2021-09-10T09:22:18-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetSubs
+2021-09-10T09:22:40-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-10T09:22:40-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-10T09:22:41-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-10T09:22:41-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-10T09:35:19-05:00 [LogApp] [187.190.204.8] ACTION: GetProduct
+2021-09-10T09:35:19-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProduct
+2021-09-10T09:35:20-05:00 [LogApp] [187.190.204.8] ACTION: GetProducts
+2021-09-10T09:35:20-05:00 [LogApp] [187.190.204.8] Entrando a funcion GetProducts
+2021-09-13T13:34:33-05:00 [LogApp] [189.203.98.205] ACTION: GetProductAll
+2021-09-13T13:34:33-05:00 [LogApp] [189.203.98.205] Entrando a funcion GetProductsAll
+2021-09-13T13:34:33-05:00 [LogApp] [189.203.98.205] ACTION: GetSubs
+2021-09-13T13:34:33-05:00 [LogApp] [189.203.98.205] Entrando a funcion GetSubs
+2021-09-13T13:34:39-05:00 [LogApp] [189.203.98.205] ACTION: GetProduct
+2021-09-13T13:34:39-05:00 [LogApp] [189.203.98.205] Entrando a funcion GetProduct
+2021-09-13T13:34:39-05:00 [LogApp] [189.203.98.205] ACTION: GetProducts
+2021-09-13T13:34:39-05:00 [LogApp] [189.203.98.205] Entrando a funcion GetProducts
+2021-09-15T10:56:44-05:00 [LogApp] [189.203.98.205] ACTION: GetSubs
+2021-09-15T10:56:44-05:00 [LogApp] [189.203.98.205] Entrando a funcion GetSubs
+2021-09-15T10:56:44-05:00 [LogApp] [189.203.98.205] ACTION: GetProductAll
+2021-09-15T10:56:44-05:00 [LogApp] [189.203.98.205] Entrando a funcion GetProductsAll
+2021-09-15T13:49:56-05:00 [LogApp] [190.236.211.93] ACTION: GetSubs
+2021-09-15T13:49:56-05:00 [LogApp] [190.236.211.93] Entrando a funcion GetSubs
+2021-09-15T13:49:56-05:00 [LogApp] [190.236.211.93] ACTION: GetProductAll
+2021-09-15T13:49:56-05:00 [LogApp] [190.236.211.93] Entrando a funcion GetProductsAll
+2022-08-31T09:43:02-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T09:43:02-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T09:43:02-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T09:43:02-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T09:44:41-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T09:44:41-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T09:44:41-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T09:44:41-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T09:44:49-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T09:44:49-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T09:44:49-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T09:44:49-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T09:45:15-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T09:45:15-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T09:45:15-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T09:45:15-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T09:49:37-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T09:49:37-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T09:49:37-05:00 [LogApp] [187.189.214.255] ERROR.GET.PRODUCTSALL. Exception: Connect Error 1045: Access denied for user 'vmiagen1_ryc_food_user'@'localhost' (using password: YES) in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:497
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(529): MysqliDb->connect()
+#1 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(2945): MysqliDb->mysqli()
+#2 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#3 /home/vmiagen1/public_html/RYC/controller/productsController.php(101): MysqliDb->rawQuery('SELECT p.* FROM...')
+#4 /home/vmiagen1/public_html/RYC/controller/productsController.php(188): GetProductsAll()
+#5 {main}
+2022-08-31T09:49:37-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T09:49:37-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T09:49:37-05:00 [LogApp] [187.189.214.255] ERROR.GET.SUBCATEGORY. Exception: Connect Error 1045: Access denied for user 'vmiagen1_ryc_food_user'@'localhost' (using password: YES) in /home/vmiagen1/public_html/RYC/includes/MysqliDb.php:497
+Stack trace:
+#0 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(529): MysqliDb->connect()
+#1 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(2945): MysqliDb->mysqli()
+#2 /home/vmiagen1/public_html/RYC/includes/MysqliDb.php(751): MysqliDb->_prepareQuery()
+#3 /home/vmiagen1/public_html/RYC/controller/categoryController.php(116): MysqliDb->rawQuery('SELECT DISTINCT...')
+#4 /home/vmiagen1/public_html/RYC/controller/categoryController.php(161): GetSubs()
+#5 {main}
+2022-08-31T09:50:20-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T09:50:20-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T09:50:20-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T09:50:20-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T09:51:13-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T09:51:13-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T09:51:13-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T09:51:13-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T09:51:17-05:00 [LogApp] [187.189.214.255] ACTION: GetProduct
+2022-08-31T09:51:17-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProduct
+2022-08-31T09:51:17-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T09:51:17-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:17:46-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:17:46-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:17:46-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:17:46-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:19:34-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:19:34-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:19:34-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:19:34-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:21:35-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:21:35-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:21:35-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:21:35-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:21:51-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:21:51-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:21:51-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:21:51-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:22:42-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:22:42-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:22:42-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:22:42-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:23:13-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:23:13-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:23:14-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:23:14-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:24:10-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:24:10-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:24:10-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:24:10-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:24:32-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:24:32-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:24:32-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:24:32-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:26:00-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:26:00-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:26:00-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:26:00-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:26:16-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:26:16-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:26:16-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:26:16-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:26:31-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:26:31-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:26:31-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:26:31-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:26:44-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:26:44-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:26:44-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:26:44-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:26:57-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:26:57-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:26:57-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:26:57-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:27:28-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:27:28-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:27:28-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:27:28-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:27:46-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:27:46-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:27:46-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:27:46-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:28:02-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:28:02-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:28:02-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:28:02-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:28:24-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:28:24-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:28:24-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:28:24-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:29:29-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:29:29-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:29:29-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:29:29-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:29:46-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:29:46-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:29:46-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:29:46-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:30:07-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:30:07-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:30:07-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:30:07-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:30:25-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:30:25-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:30:25-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:30:25-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:31:25-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:31:25-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:31:25-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:31:25-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:32:07-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:32:07-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:32:07-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:32:07-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:32:43-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:32:43-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:32:43-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:32:43-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:33:34-05:00 [LogApp] [187.189.214.255] ACTION: GetSearch
+2022-08-31T10:33:34-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSearch
+2022-08-31T10:33:35-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:33:35-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:33:58-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:33:58-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:33:58-05:00 [LogApp] [187.189.214.255] ACTION: GetSearch
+2022-08-31T10:33:58-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSearch
+2022-08-31T10:34:35-05:00 [LogApp] [187.189.214.255] ACTION: GetSearch
+2022-08-31T10:34:35-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSearch
+2022-08-31T10:34:35-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:34:35-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:35:32-05:00 [LogApp] [187.189.214.255] ACTION: GetSearch
+2022-08-31T10:35:32-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSearch
+2022-08-31T10:35:32-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:35:32-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:35:41-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T10:35:41-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:35:41-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:35:41-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:35:47-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T10:35:47-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:35:47-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:35:47-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:38:35-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T10:38:35-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:38:35-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:38:35-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:40:45-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T10:40:45-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:40:45-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:40:45-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:41:42-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T10:41:42-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:41:42-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:41:42-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:41:56-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T10:41:56-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:41:56-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:41:56-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:44:10-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T10:44:10-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:44:10-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:44:10-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:44:15-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T10:44:15-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:44:15-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:44:15-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:44:26-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T10:44:26-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:44:26-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:44:26-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:45:18-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T10:45:18-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:45:18-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:45:18-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:46:08-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T10:46:08-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:46:08-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:46:08-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:46:16-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:46:16-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:46:16-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:46:16-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:46:57-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:46:57-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:46:57-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:46:57-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:47:03-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:47:03-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:47:03-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:47:03-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:48:00-05:00 [LogApp] [187.189.214.255] ACTION: GetProductAll
+2022-08-31T10:48:00-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProductsAll
+2022-08-31T10:48:00-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:48:00-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:48:06-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T10:48:06-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:48:06-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:48:06-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:48:40-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T10:48:40-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:48:40-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:48:40-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:49:32-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T10:49:32-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:49:33-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:49:33-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:49:48-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T10:49:48-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:49:48-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:49:48-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:50:44-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T10:50:44-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:50:44-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:50:44-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:51:39-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T10:51:39-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:51:39-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:51:39-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:52:07-05:00 [LogApp] [187.189.214.255] ACTION: GetProduct
+2022-08-31T10:52:07-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProduct
+2022-08-31T10:52:07-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T10:52:07-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:55:05-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T10:55:05-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:55:05-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:55:05-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:55:11-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T10:55:11-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:55:11-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:55:11-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:55:54-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T10:55:54-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:55:54-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:55:54-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:56:21-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T10:56:21-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:56:21-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:56:21-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:58:05-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T10:58:05-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:58:05-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:58:05-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:58:13-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T10:58:13-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:58:13-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:58:13-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:58:23-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T10:58:23-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:58:23-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:58:23-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
+2022-08-31T10:58:54-05:00 [LogApp] [187.189.214.255] ACTION: GetProducts
+2022-08-31T10:58:54-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetProducts
+2022-08-31T10:58:54-05:00 [LogApp] [187.189.214.255] ACTION: GetSubs
+2022-08-31T10:58:54-05:00 [LogApp] [187.189.214.255] Entrando a funcion GetSubs
