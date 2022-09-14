@@ -306,11 +306,11 @@
 
 							<h4 class="text-color-dark font-weight-normal line-height-3 text-21">Soluciones cárnicas de calidad para tu negocio.</h4>
 
-							<p class="lead font-weight-light text-color-light p.parr">Nuestros alimentos son elaborados con altos estándares de calidad, innovando en soluciones cárnicas, siempre buscando la excelencia en todos nuestros productos.</p>
+							<p class="parr lead font-weight-light text-color-light">Nuestros alimentos son elaborados con altos estándares de calidad, innovando en soluciones cárnicas, siempre buscando la excelencia en todos nuestros productos.</p>
 
-							<p class="font-weight-light text-color-light lead-3 mb-4 opacity-7">¡Somos un mundo de posibilidades! Estamos comprometidos con la excelencia y con la calidad de nuestros productos.</p>
+							<p class="font-weight-light text-color-light text-6-5-6 mb-4 opacity-7">¡Somos un mundo de posibilidades! Estamos comprometidos con la excelencia y con la calidad de nuestros productos.</p>
 
-							<p class="font-weight-light text-color-light lead-3 mb-4 opacity-7">Imagina lo que podemos hacer juntos.</p>
+							<p class="font-weight-light text-color-light text-6-5-6 mb-4 opacity-7">Imagina lo que podemos hacer juntos.</p>
 
 							<a href="contact" class="btn btn-outline btn-primary font-weight-bold text-1 px-4 btn-py-2">CONTÁCTANOS</a>
 
@@ -485,7 +485,7 @@
 
 									<a href="productos.php?search=2&subs=38">
 
-										<span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-no-zoom">
+										<span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-lighten">
 
 											<span class="thumb-info-wrapper">
 
@@ -519,7 +519,7 @@
 
 									<a href="productos.php?search=2&subs=40">
 
-										<span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-no-zoom">
+										<span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-lighten">
 
 											<span class="thumb-info-wrapper">
 
@@ -639,9 +639,9 @@
 
 										<div class="testimonial-author">
 
-											<p><strong class="font-weight-extra-bold text-2"><span>Octavio Salazar</span></p>
+											<p><strong class="font-weight-extra-bold text-2"><span class = "font-weight-extra-bold text-6-5-9">Octavio Salazar</span></p>
 
-											<p><strong class="font-weight-extra-bold text-2"><span>CEO, Alimentos Mex S.A. de c.V.</span></p>
+											<p><strong class="font-weight-extra-bold text-2"><span class = "text-6-5-3">CEO, Alimentos Mex S.A. de c.V.</span></p>
 
 										</div>
 
@@ -667,9 +667,9 @@
 
 										<div class="testimonial-author">
 
-											<p><strong class="font-weight-extra-bold text-2"><span>Octavio Salazar</span></p>
+											<p><strong class="font-weight-extra-bold text-2"><span class = "font-weight-extra-bold text-6-5-9">Octavio Salazar</span></p>
 
-											<p><strong class="font-weight-extra-bold text-2"><span>CEO, Alimentos Mex S.A. de c.V.</span></p>
+											<p><strong class="font-weight-extra-bold text-2"><span class = "text-6-5-3">CEO, Alimentos Mex S.A. de c.V.</span></p>
 
 										</div>
 

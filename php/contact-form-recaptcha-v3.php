@@ -24,7 +24,7 @@ require 'php-mailer/src/Exception.php';
 if(isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
 
 	// Your Google reCAPTCHA generated Secret Key here
-	$secret = 'YOUR_RECAPTCHA_SECRET_KEY';
+	$secret = '6LdLu94hAAAAAIXtXVoQsNkmZiCA258gTnvIG9GU';
 	
 	if( ini_get('allow_url_fopen') ) {
 		//reCAPTCHA - Using file_get_contents()
@@ -53,7 +53,7 @@ if(isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'
 	if($responseData->success) {
 
 		// Step 1 - Enter your email address below.
-		$email = 'you@domain.com';
+		$email = 'carlos.aguila@vmasideas.com';
 
 		// If the e-mail is not working, change the debug option to 2 | $debug = 2;
 		$debug = 0;

@@ -226,7 +226,7 @@ if (isset($_GET['subs']) && !empty($_GET['subs']) and isset($_GET['search']) && 
 
                                                         <small class="d-block text-uppercase text-decoration-none text-6-5-3 text-color-hover-primary line-height-1 mb-1"><span id="categoria_producto" class="codigo-producto"></span> | <span id="codigo-producto" class="codigo-producto"></span></small>
 
-                                                        <p class="text-6-5-4 text-color-hover-primary"></p>
+                                                        <p class="text-24 text-color-hover-primary"></p>
 
                                                     </div>
 

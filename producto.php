@@ -76,18 +76,41 @@ if(isset($_GET['item']) && !empty($_GET['item']) ){
 		$prodQryImg1 = $db->get("TBL_IMG");
 		$pathIMG1="";
 		$pathIMG2="";
+		$imgvacio="images/productos/placeholder.jpg";
 		if ($db->count > 0)
 		{
-			$pathIMG1=$prodQryImg1[0]["path"];
+			
+			if ($prodQryImg1[0]["path"] == '') 
+			{
+				$pathIMG1=$imgvacio;
+			}
+			else {
+				$pathIMG1=$prodQryImg1[0]["path"];
+			}	
+
 		}
-		
+
 		$db->where ("id_product", $product);
 		$db->where ("main_img", 0);
 		$prodQryImg2 = $db->get("TBL_IMG");
+
 		if ($db->count > 0)
 		{
-			$pathIMG2=$prodQryImg2[0]["path"];
+			
+			if ($pathIMG2=$prodQryImg2[0]["path"] == '') 
+			{
+				$pathIMG2=$imgvacio;
+			}
+			else {
+				$pathIMG2=$prodQryImg2[0]["path"];
+			}	
+
 		}
+
+		// if ($db->count > 0)
+		// {
+		// 	$pathIMG2=$prodQryImg2[0]["path"];
+		// }
 		
 		
 		$qryTMP="SELECT TBL1.name AS subcat, TBL2.name AS cat FROM TBL_CATEGORY TBL1, TBL_CATEGORY TBL2 WHERE TBL1.id_category_parent=TBL2.id_category AND TBL1.id_category=".$prodQry[0]["id_category"];

@@ -20,13 +20,13 @@ require 'php-mailer/src/SMTP.php';
 require 'php-mailer/src/Exception.php';
 
 // Step 1 - Enter your email address below.
-$email = 'you@domain.com';
+$email = 'pruebas.pruebas@vmasideas.com';  // se cambio a este correo porque me lo mandaba a spam carlos.aguila / cambiarlo al destinatario
 
 // If the e-mail is not working, change the debug option to 2 | $debug = 2;
 $debug = 0;
 
 // If contact form don't has the subject input change the value of subject here
-$subject = ( isset($_POST['subject']) ) ? $_POST['subject'] : 'Define subject in php/contact-form.php line 29';
+$subject = ( isset($_POST['subject']) ) ? $_POST['subject'] : 'Mensaje de Usuario';
 
 $message = '';
 
@@ -56,13 +56,13 @@ try {
 
 	// Step 2 (Optional) - If you don't receive the email, try to configure the parameters below:
 
-	//$mail->IsSMTP();                                         // Set mailer to use SMTP
-	//$mail->Host = 'mail.yourserver.com';				       // Specify main and backup server
-	//$mail->SMTPAuth = true;                                  // Enable SMTP authentication
-	//$mail->Username = 'user@example.com';                    // SMTP username
-	//$mail->Password = 'secret';                              // SMTP password
-	//$mail->SMTPSecure = 'tls';                               // Enable encryption, 'ssl' also accepted
-	//$mail->Port = 587;   								       // TCP port to connect to
+	$mail->IsSMTP();                                         // Set mailer to use SMTP
+	$mail->Host = 'vmasideas.agency';				       // Specify main and backup server
+	$mail->SMTPAuth = true;                                  // Enable SMTP authentication
+	$mail->Username = 'test.noreplay@vmasideas.agency';                    // SMTP username
+	$mail->Password = 'U*vwbwspd(Fq';                              // SMTP password
+	$mail->SMTPSecure = 'tls';                               // Enable encryption, 'ssl' also accepted
+	$mail->Port = 587;   								       // TCP port to connect to
 
 	$mail->AddAddress($email);	 						       // Add another recipient
 
@@ -72,6 +72,12 @@ try {
 
 	// From - Name
 	$fromName = ( isset($_POST['name']) ) ? $_POST['name'] : 'Website User';
+	$user_Name        = filter_var($_POST["name"], FILTER_SANITIZE_STRING);
+	$user_Phone       = filter_var($_POST["phone"], FILTER_SANITIZE_STRING);
+	$user_Email       = filter_var($_POST["email"], FILTER_SANITIZE_STRING);
+	$user_empresa     = filter_var($_POST["empresa"], FILTER_SANITIZE_STRING);
+	$user_Message     = filter_var($_POST["message"], FILTER_SANITIZE_STRING);
+
 	$mail->SetFrom($email, $fromName);
 
 	// Repply To
@@ -84,7 +90,20 @@ try {
 	$mail->CharSet = 'UTF-8';
 
 	$mail->Subject = $subject;
-	$mail->Body    = $message;
+	//$mail->Body    = $message;
+	$mail->Body  = "<h4 style='text-align: center;padding: 25px 15px;background-color: #0c6c9e;color: #FFFFFF;font-size:16px;width:90%;border-radius: 10px;'>Existe un nuevo mensaje de contacto en el sitio.</h4><br><br>";
+
+	$mail->Body .= utf8_decode("<strong>Nombre: </strong>". $user_Name ."<br>");
+
+    $mail->Body .= utf8_decode("<strong>Telefono: </strong>". $user_Phone ."<br>");
+
+	$mail->Body .= utf8_decode("<strong>Correo: </strong>". $user_Email ."<br>");
+
+    $mail->Body .= utf8_decode("<strong>Empresa: </strong>". $user_empresa ."<br>");
+
+	$mail->Body .= utf8_decode("<strong>Mensaje: </strong>". $user_Message ."<br>");
+
+    
 
 	$mail->Send();
 	$arrResult = array ('response'=>'success');

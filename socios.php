@@ -89,9 +89,9 @@
 
 						<div class="col-lg-5 order-1 order-lg-1 pt-4 pt-lg-0 pb-5 pb-lg-0 mt-5 mt-lg-0 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">
 
-							<p class="lead font-weight-light text-color-light text-6-5-8 line-height-3" style="margin-top: 30px;">El Foodservice de hoy es exigente, dinámico, vibrante e innovador. En Bachoco Foodservice encontrarás a un equipo de profesionales interesados en contribuir a tu crecimiento y éxito a través de una variedad de soluciones en proteína que potenciarán tu negocio.</p>
+							<p class="lead font-weight-light text-color-light text-6-5-8 line-height-3" style="margin-top: 30px;">El <strong style = "color:#fff">Foodservice</strong> de hoy es exigente, dinámico, vibrante e innovador. En Bachoco Foodservice encontrarás a un equipo de profesionales interesados en contribuir a tu crecimiento y éxito a través de una variedad de soluciones en proteína que potenciarán tu negocio.</p>
 
-							<p class="lead font-weight-light text-color-light text-6-5-8 line-height-3">¡Somos un mundo de posibilidades! Estamos comprometidos con la excelencia y con la calidad de nuestros productos.</p>
+							<p class="lead font-weight-light text-color-light text-6-5-8 line-height-3"><strong style = "color:#fff">¡Somos un mundo de posibilidades!</strong> Estamos comprometidos con la excelencia y con la calidad de nuestros productos.</p>
 
 							<p class="lead font-weight-light text-color-light text-6-5-8 line-height-3">Imagina todo lo que podemos hacer juntos.</p>
 

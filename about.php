@@ -42,7 +42,7 @@
 
 							<div class="col-lg-12 mb-5 mb-lg-0 appear-animation" data-appear-animation="fadeInRightShorter">																
 
-								<p class="text-6-5-8 pb-2 mb-4">En Bachoco Foodservice estamos todos los días comprometidos con la calidad de nuestros procesos y servicios; con la innovación y la vanguardia de nuestros productos, con el crecimiento de nuestros clientes y con ofrecer al mercado productos que satisfagan al público más exigente.</p>
+								<p class="text-6-5-8 pb-2 mb-4">En <strong style = "color:#fff">Bachoco Foodservice</strong> estamos todos los días comprometidos con la calidad de nuestros procesos y servicios; con la innovación y la vanguardia de nuestros productos, con el crecimiento de nuestros clientes y con ofrecer al mercado productos que satisfagan al público más exigente.</p>
 
 								<p class="text-6-5-8 pb-2 mb-4">Es por ello que nos aseguramos de garantizar que nuestros productos estén diseñados con altos estándares de calidad con el respaldo de un equipo de expertos que te ayudarpan a hacer tu negocio más exitoso. Contamos con una infraestructura sólida, con áreas de trabajo refrigeradas, con un laboratorio microbiológico, además trabajamos con tecnologías avanzadas, maquinaria y mano de obra especializada.</p>
 
@@ -62,13 +62,13 @@
 
 					<div class="container">
 
-						<div class="row align-items-center justify-content-center justify-content-lg-between pb-5 pb-lg-0">
+						<div class="row align-items-center justify-content-center justify-content-lg-between pb-5 pb-lg-4">
 
 							<div class="col-lg-5 order-2 order-lg-2 pt-4 pt-lg-0 pb-5 pb-lg-0 mt-5 mt-lg-0 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">
 
 
 
-								<p class = "lead font-weight-light text-color-light text-6-5-2 line-height-3" style="margin-top: 30px;">El sello de calidad Bachoco Foodservice es una declaración de confianza probada en nuestros productos, que te ayudarán a: </p>
+								<p class = "lead font-weight-light text-color-light text-6-5-2 line-height-3" style="margin-top: 30px;">El sello de calidad <strong style = "color:#fff">Bachoco Foodservice</strong> es una declaración de confianza probada en nuestros productos, que te ayudarán a: </p>
 
 								<ul class = "lead font-weight-light text-color-light text-6-5-2 line-height-3">								
 
@@ -88,7 +88,7 @@
 
 								
 
-								<a href="contact" class="btn btn-outline btn-primary font-weight-bold text-1 px-4 btn-py-2">CONTÁCTANOS</a>
+								<a href="productos" class="btn btn-outline btn-primary font-weight-bold text-1 px-4 btn-py-2">CATÁLOGO DE PRODUCTOS</a>
 
 							</div>
 
@@ -114,7 +114,7 @@
 
 								<h4 class="text-color-dark font-weight-normal line-height-3 text-23">CERTIFICACIONES</h4>
 
-								<p class = "lead font-weight-light text-color-light text-6-5-8 line-height-3" style="margin-top: 30px;">El sello de calidad Bachoco Foodservice es una declaración de confianza probada en nuestros productos, que te ayudarán a:</p>
+								<p class = "lead font-weight-light text-color-light text-6-5-8 line-height-3" style="margin-top: 30px;">El sello de calidad <strong style = "color:#fff">Bachoco Foodservice</strong> es una declaración de confianza probada en nuestros productos, que te ayudarán a:</p>
 
 							</div>
 
@@ -251,7 +251,7 @@
 
 							<p class="lead text-6-5-8">En Bachoco Foodservice hacemos de tu negocio nuestro negocio ofreciéndote atención y consultoría, además de capacitación en el manejo de producto.</p>
 
-							<p class="lead">Brindamos asesoría y estrategias para hacer que tu cocina, restaurante, casino u hospital optimicen sus recursos al máximo. Imagina todo lo que podemos hacer juntos.</p>
+							<p class="lead text-6-5-8">Brindamos asesoría y estrategias para hacer que tu cocina, restaurante, casino u hospital optimicen sus recursos al máximo. Imagina todo lo que podemos hacer juntos.</p>
 
 							<a href="contact" class="btn btn-outline btn-primary font-weight-bold text-1 px-4 btn-py-2">CONTACTAR A UN ESPECIALISTA</a>
 

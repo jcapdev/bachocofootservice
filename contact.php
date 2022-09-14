@@ -110,7 +110,7 @@
 
 										<label class="form-label mb-1 text-6-5-5">Teléfono*</label>
 
-										<input type="text" value="" data-msg-required="Porfavor coloca tu telefono." maxlength="100" class="form-control text-3 h-auto py-2" name="name" required>
+										<input type="text" value="" data-msg-required="Porfavor coloca tu telefono." maxlength="100" class="form-control text-3 h-auto py-2" name="phone" required>
 
 									</div>
 
@@ -118,7 +118,7 @@
 
 										<label class="form-label mb-1 text-6-5-5">Empresa*</label>
 
-										<input type="text" value="" data-msg-required="Porfavor coloca una empresa." maxlength="100" class="form-control text-3 h-auto py-2" name="name" required>
+										<input type="text" value="" data-msg-required="Porfavor coloca una empresa." maxlength="100" class="form-control text-3 h-auto py-2" name="empresa" required>
 
 									</div>
 
@@ -128,7 +128,7 @@
 
 									<div class="form-group col">
 
-										<label class="form-label mb-1 text-6-5-5">Message</label>
+										<label class="form-label mb-1 text-6-5-5">Mensaje</label>
 
 										<textarea maxlength="5000" data-msg-required="Porfavor coloca un mensaje." rows="8" class="form-control text-3 h-auto py-2" name="message" required></textarea>
 
@@ -158,11 +158,13 @@
 
 							<div class="appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="800">
 
-								<h4 class="mt-2 text-23 mb-1">OFICINAS</h4>
+								<h4 class="mt-2 text-23 mb-1">Comunícate al Centro de Servicio al:</h4>
+								<!-- <p class="mb-4 lead-4">Comunícate al Centro de Servicio al</p> -->
+								<!-- Comunícate al Centro de Servicio al 800 607 5000,de lunes a viernes en horario de 8:00 a 18:00 horas. -->
 
 								<ul class="list list-icons text-6-5-2 list-icons-style-2 mt-2">
 
-									<li><i class="fas fa-map-marker-alt"></i>Prol. 27 Nte. 10262, Parque Industrial 5 de Mayo, 72019 Puebla, Pue.</li>
+									<!-- <li><i class="fas fa-map-marker-alt"></i>Prol. 27 Nte. 10262, Parque Industrial 5 de Mayo, 72019 Puebla, Pue.</li> -->
 
 									<li><i class="fas fa-phone"></i>800 607 5000.</li>
 
@@ -182,7 +184,7 @@
 
 									<li><i class="far fa-clock top-6"></i>Lunes a viernes:  8 am a 6 pm</li>
 
-									<li><i class="far fa-clock top-6"></i>Sábados: 8 am a 1 pm</li>									
+									<!-- <li><i class="far fa-clock top-6"></i>Sábados: 8 am a 1 pm</li>									 -->
 
 								</ul>
 
@@ -211,7 +213,8 @@
 		<!-- Vendor -->
 
 		<script src="vendor/plugins/js/plugins.min.js"></script>
-
+		
+		<script src="vendor/jquery.validation/jquery.validate.min.js"  ></script>
 
 
 		<!-- Theme Base, Components and Settings -->
@@ -227,6 +230,8 @@
 		<!-- Current Page Views -->
 
 		<script src="js/views/view.home.js"></script>
+
+		<script src="js/views/view.contact.js"></script>
 
 
 
@@ -413,6 +418,7 @@
 			}
 
 		</script>
+		<script id="google-recaptcha-v3" src="https://www.google.com/recaptcha/api.js?render=6LdLu94hAAAAAKdLOqP1cdHtpDJNDPFFUxr3tYPS"></script>
 
 
 	</body>

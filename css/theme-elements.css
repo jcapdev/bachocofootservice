@@ -16761,8 +16761,9 @@ html.gecko .sort-destination.sort-destination-margin > [class*="col-"] {
 	color: #FFF;
 	font-family: 'Actor';
     font-weight: normal;
-    font-style: normal;
-	font-size: 1.2em;
+    font-style: italic;
+	/* font-size: 1.2em; */
+    font-size: 18px !important;
 }
 
 .testimonial .testimonial-arrow-down {
@@ -18556,8 +18557,8 @@ p .alternative-font {
 }
 
 p.parr {
-	font-size: 24px;
-	color:#ffffff;
+	font-size: 24px !important;
+	color:#ffffff !important;
 	line-height: 28.8px;
 	line-height: 1.8rem;
 	font-family: 'Actor';
@@ -18578,8 +18579,8 @@ p.parr {
 	font-size: 1.12rem;
 }
 .lead-3{
-	font-size:18px;
-	color: #CCCCCC;
+	font-size:18px !important;
+	color: #CCCCCC !important;
 	font-family: 'Actor';
     font-weight: normal;
     font-style: normal;
@@ -20251,3 +20252,13 @@ ul.team-list .team-item .thumb-info-social-icons {
 		line-height: 100px;
 	}
 }
+
+.grecaptcha-badge {
+	width: 70px !important;
+	overflow: hidden !important;
+	transition: all 0.3s ease !important;
+	left: 4px !important;
+  }
+  .grecaptcha-badge:hover {
+	width: 256px !important;
+  }

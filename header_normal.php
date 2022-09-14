@@ -5,7 +5,7 @@
 		<meta name="keywords" content="Bachoco Foodservice" />
 		<meta name="description" content="bachoco food service">
 		<meta name="author" content="vmasideas">
-		<link rel="shortcut icon" href="img/icons/favicon-32x32.png" type="image/x-icon" />
+		<link rel="shortcut icon" href="img/icons/favicon-32x32_.png" type="image/x-icon" />
 		<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
 		<link id="googleFonts" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800%7CShadows+Into+Light&display=swap" rel="stylesheet" type="text/css">
@@ -33,8 +33,8 @@
 		<link id="skinCSS" rel="stylesheet" href="css/skins/default.css">
 		<!-- Theme Custom CSS -->
 		<link rel="stylesheet" href="css/custom.css">
-		<link rel="preload" href="Actor-Regular.woff2" as="font" type="font/woff2" crossorigin>
-		<link rel="preload" href="Helvetica-Bold.woff2" as="font" type="font/woff2" crossorigin>
+		<link rel="preload" href="css/Actor-Regular.woff2" as="font" type="font/woff2" crossorigin>
+		<link rel="preload" href="css/Helvetica-Bold.woff2" as="font" type="font/woff2" crossorigin>
 		<!-- Head Libs -->
 		<script src="vendor/modernizr/modernizr.min.js"></script>
 
