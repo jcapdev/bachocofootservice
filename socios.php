@@ -79,9 +79,9 @@
 
 		</div>
 
-		<div role="main" class="main">
+		<div role="main" class="main bg-dark" >
 
-			<section class="section  border-0 py-0 m-0 appear-animation bg-dark" data-appear-animation="fadeIn">
+			<section class="border-0 py-0 m-0 appear-animation" data-appear-animation="fadeIn">
 
 				<div class="container">
 
@@ -125,7 +125,7 @@
 
 			</section>
 
-			<section id="our-services"class="section bg-color-grey-scale-1 section-height-3 border-0 m-0 bg-dark">
+			<section id="our-services"class="section bg-color-grey-scale-1 section-height-3 border-0 m-0">
 
 				<div class="container">
 
@@ -136,6 +136,13 @@
 							<span>TODOS</span>
 
 						</div>
+
+						<div data-filter=".marcas" class="cbp-filter-item">
+
+							<span>MARCAS</span>
+
+						</div>						
+
 
 						<div data-filter=".horeca" class="cbp-filter-item">
 
@@ -387,13 +394,171 @@
 
 						</div>
 
+						<div class="cbp-item brand design marcas">
+
+							<a target="_blank" href="https://www.practirico.com/"><img src="images/logos_gris/company2.png" alt="Logo Practirico"></a>
+
+						</div>
+
+						<div class="cbp-item brand design marcas">
+
+							<a target="_blank" href="https://www.fronteracarneparrillera.com/"><img src="images/logos_gris/company3.png" alt="Logo Frontera"></a>
+
+						</div>
+
+						<div class="cbp-item brand design marcas">
+
+							<a target="_blank" href="https://www.granjasryc.com/"><img src="images/logos_gris/company1.png" alt="Logo RYC"></a>
+
+						</div>
+						
+						<div class="cbp-item brand design marcas">
+
+							<a target="_blank" href="https://www.granjasryc.com/"><img src="images/logos_gris/company6_1.png" alt="Logo RYC"></a>
+
+						</div>
+						
+						<div class="cbp-item brand design marcas">
+
+							<a target="_blank" href=""><img src="images/logos_gris/company8.png" alt="Logo Cowboy Grill"></a>
+
+						</div>
+
+						<div class="cbp-item brand design marcas">
+
+							<a target="_blank" href=""><img src="images/logos_gris/company11.png" alt="Logo Real de Plata"></a>
+
+						</div>
+
+						<div class="cbp-item brand design marcas">
+
+							<a target="_blank" href=""><img src="images/logos_gris/company14.png" alt="Logo PRACTICHEF"></a>
+
+						</div>
+
+						<div class="cbp-item brand design marcas">
+
+							<a target="_blank" href=""><img src="images/logos_gris/company7.png" alt="Logo CONFI"></a>
+
+						</div>
+
+						<div class="cbp-item brand design marcas">
+
+							<a target="_blank" href=""><img src="images/logos_gris/company12.png" alt="Logo PIEDRAS NEGRAS"></a>
+
+						</div>
+
+						<div class="cbp-item brand design marcas">
+
+							<a target="_blank" href=""><img src="images/logos_gris/company6_2.png" alt="Logo CARNIPLUS"></a>
+
+						</div>
+
+						<div class="cbp-item brand design marcas">
+
+							<a target="_blank" href=""><img src="images/logos_gris/company16.png" alt="Logo PREMIUM ANGUS"></a>
+
+						</div>
+
+						<div class="cbp-item brand design marcas">
+
+							<a target="_blank" href=""><img src="images/logos_gris/company17.png" alt="Logo OVEJEROS DE ATLIXCO"></a>
+
+						</div>
+
+						<div class="cbp-item brand design marcas">
+
+							<a target="_blank" href="https://kfc.com.mx/"><img src="images/logos_gris/company24.png" alt="Logo KFC"></a>
+
+						</div>
+
+						<div class="cbp-item brand design marcas">
+
+							<a target="_blank" href="https://carlsjr.com.mx/"><img src="images/logos_gris/company31.png" alt="Logo carlsjr"></a>
+
+						</div>
+
+						<div class="cbp-item brand design marcas">
+
+							<a target="_blank" href="https://www.alsea.net/"><img src="images/logos_gris/company19.png" alt="Logo alsea"></a>
+
+						</div>
+
+						<div class="cbp-item brand design marcas">
+
+							<a target="_blank" href="https://us.campero.com/"><img src="images/logos_gris/company30.png" alt="Logo Campero"></a>
+
+						</div>
+
+						<div class="cbp-item brand design marcas">
+
+							<a target="_blank" href="https://www.barcelo.com/es-mx/"><img src="images/logos_gris/company21.png" alt="Logo Barcelo"></a>
+
+						</div>
+
+						
+						<div class="cbp-item brand design marcas">
+
+							<a target="_blank" href="https://carnemartenmiciudad.com/"><img src="images/logos_gris/company25.png" alt="Logo Carne Mart"></a>
+
+						</div>
+
+
+						<div class="cbp-item brand design marcas">
+
+							<a target="_blank" href="https://panama.com.mx/"><img src="images/logos_gris/company28.png" alt="Logo Panama"></a>
+
+						</div>
+
+
+						<div class="cbp-item brand design marcas">
+
+							<a target="_blank" href="https://www.riu.com/en/home.jsp"><img src="images/logos_gris/company23.png" alt="Logo RIU"></a>
+
+						</div>
+
+						<div class="cbp-item brand design marcas">
+
+							<a target="_blank" href="https://www.mcdonalds.com.mx/"><img src="images/logos_gris/company27.png" alt="Logo MCDONALS"></a>
+
+						</div>
+
+
+						<div class="cbp-item brand design marcas">
+
+							<a target="_blank" href="https://www.palaceresorts.com/es"><img src="images/logos_gris/company29.png" alt="Logo palaceresorts"></a>
+
+						</div>
+						
+
+						<div class="cbp-item brand design marcas">
+
+							<a target="_blank" href="https://www.amrcollection.com/"><img src="images/logos_gris/company20.png" alt="Logo amrcollection"></a>
+
+						</div>
+
+
+						<div class="cbp-item brand design marcas">
+
+							<a target="_blank" href="https://www.posadas.com/es/home"><img src="images/logos_gris/company26.png" alt="Logo posadas"></a>
+
+						</div>
+
+
+						<div class="cbp-item brand design marcas">
+
+							<a target="_blank" href="https://www.hardrock.com/"><img src="images/logos_gris/company18.png" alt="Logo hardrock"></a>
+
+						</div>
+
+
 					</div>
 
 				</div>
 
 			</section>
 
-			<section class="section bg-color-grey-scale-1 section-height-3 border-0 m-0 bg-dark">
+			<section class="section bg-color-grey-scale-1 section-height-3 border-0 m-0">
 
 				<div class="container pb-2">
 

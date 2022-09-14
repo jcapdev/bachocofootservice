@@ -196,9 +196,11 @@
 
 							<p class="parr pb-2 mb-4">Somos una empresa de soluciones cárnicas con productos altamente certificados; tenemos 40 años de experiencia en la industria Cárnica, por lo que hemos logrado ser un referente en México.</p>
 
-							<p class="lead-3 pb-2 mb-4">Contamos con una infraestructura sólida, con áreas de trabajo refrigeradas, con un laboratorio microbiológico, además trabajamos tecnologías avanzadas, maquinaria y mano de obra especializada.</p>
+							<p class="lead-3 pb-2 mb-4">En Bachoco Foodservice cuidamos cada detalle, dentro de nuestro catálogo contamos con diversas e innovadoras opciones de proteínas para tu negocio. Nuestra variedad incluye pollo, pavo, res y cerdo, perfectos para utilizarlos en la preparación de platillos tradicionales, pizzas, ensaladas, hamburguesas, sándwiches y muchos más.Contamos con certificaciones y reconocimientos que avalan la calidad en nuestros procesos y productos.</p>
 
-							<p class="lead-3 pb-2 mb-4">Cuidamos con esmero, compromiso y excelencia la calidad de nuestros productos, atendiendo eficientemente a un número importante de clientes con gran prestigio y presencia a nivel nacional e internacional.</p>
+							<p class="lead-3 pb-2 mb-4">Atendemos eficientemente a un número importante de clientes con gran prestigio y presencia a nivel nacional e internacional. Contamos con el respaldo de un equipo de expertos que te ayudarán a hacer tu negocio más exitoso.</p>
+
+							<p class="lead-3 pb-2 mb-4">¡Somos un mundo de posibilidades! Imagina todo lo que podemos hacer juntos.</p>
 
 							<a href="about" class="btn btn-outline btn-primary font-weight-bold text-1 px-4 btn-py-2">DESCUBRE MÁS</a>
 

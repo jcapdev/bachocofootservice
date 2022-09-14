@@ -7909,7 +7909,7 @@ a.text-light:focus, a.text-light:hover {
 }
 
 .bg-color-grey-scale-1 {
-	background-color: #EDEDED !important;
+	/* background-color: #EDEDED !important; */
 }
 
 .bg-color-grey-scale-2 {
@@ -11743,7 +11743,7 @@ html.gap-outside .pin-wrapper .sticky-wrapper.sticky-effect-active .sticky-body 
 }
 .cbp-l-filters .cbp-filter-item {
     cursor: pointer;
-    padding: 0 47px;
+    padding: 0 20px;
     display: inline-block;
     border-right: 1px solid #fff;
 
