@@ -344,218 +344,38 @@
 
 					</div>
 
-					<div class="row mb-5">
-
-						<div class="col">
-
-							<!-- <div class="owl-carousel owl-theme nav-style-1 stage-margin mb-0" data-plugin-options="{'responsive': {'576': {'items': 1}, '768': {'items': 2}, '992': {'items': 3}, '1200': {'items': 3}}, 'margin': 3}">
-
-									<div class="m-3">
-
-										<div class="hover-effect-3d">
-
-											<div class="thumb-info thumb-info-hide-wrapper-bg thumb-info-no-zoom rounded-0">
-
-												<div class="thumb-info-wrapper">
-
-													<img src="img/gallery/gallery-2.jpg" class="img-fluid rounded-0 hover-effect-2" alt="">
-
-												</div>
-
-											</div>
-
-										</div>
-
-									</div>
-
-									<div class="m-3">
-
-										<div class="hover-effect-3d">
-
-											<div class="thumb-info thumb-info-hide-wrapper-bg thumb-info-no-zoom rounded-0">
-
-												<div class="thumb-info-wrapper">
-
-													<img src="img/gallery/gallery-3.jpg" class="img-fluid rounded-0 hover-effect-2" alt="">
-
-												</div>
-
-											</div>
-
-										</div>
-
-									</div>
-
-									<div class="m-3">
-
-										<div class="hover-effect-3d">
-
-											<div class="thumb-info thumb-info-hide-wrapper-bg thumb-info-no-zoom rounded-0">
-
-												<div class="thumb-info-wrapper">
-
-													<img src="img/gallery/gallery-4.jpg" class="img-fluid rounded-0 hover-effect-2" alt="">
-
-												</div>
-
-											</div>
-
-										</div>
-
-									</div>
-
-								</div> -->
-
-							<div class="row" style="--bs-gutter-x: 6.0rem;">
-								<div class="col-lg-1">
-								</div>			
-								<div class="col-lg-5">
-
-									<a href="productos.php?search=2&subs=37">
-
-										<span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded">
-
-											<span class="thumb-info-wrapper">
-
-												<img src="img/blog/square/pollojpg.jpg" class="img-fluid" alt="">
-
-												<span class="thumb-info-action">
-
-													
-												</span>
-
-											</span>
-
-										</span>
-
-										<span class="gallinaloco">
-
-											<span class="">
-
-												<img src="img/home/gallina.png" class="gallinaimg" alt="">
-
-											</span>
-
-										</span>
-
-									</a>
-
-									<h5 class="text-uppercase2">POLLO</h5>
-
-								</div>
-								<div class="col-lg-5">
-
-									<a href="productos.php?search=2&subs=39">
-
-										<span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-lighten">
-
-											<span class="thumb-info-wrapper">
-
-												<img src="img/blog/square/cerdo.jpg" class="img-fluid" alt="">
-
-												<span class="thumb-info-action">
-
-													
-												</span>
-
-											</span>
-
-										</span>
-
-										<span class="cerdologo">
-
-											<span class="">
-
-												<img src="img/home/cerdo.png" class="cerdoimg" alt="">
-
-											</span>
-
-										</span>
-
-									</a>
-
-									<h5 class="text-uppercase2">CERDO</h5>
-
-								</div>
-								<div class="col-lg-1">
-								</div>
-							</div>
-							<div class="row" style="--bs-gutter-x: 6.0rem;margin-top: 40px;">
-								<div class="col-lg-1">
-								</div>			
-								<div class="col-lg-5">
-
-									<a href="productos.php?search=2&subs=38">
-
-										<span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-lighten">
-
-											<span class="thumb-info-wrapper">
-
-												<img src="img/blog/square/res.jpg" class="img-fluid" alt="">
-
-												<span class="thumb-info-action">
-
-												
-												</span>
-
-											</span>
-
-										</span>
-
-										<span class="vacalogo">
-
-											<span class="">
-
-												<img src="img/home/vaca.png" class="vacalogoimg" alt="">
-
-											</span>
-
-										</span>
-
-									</a>
-
-									<h5 class="text-uppercase2">RES</h5>
-
-								</div>
-								<div class="col-lg-5">
-
-									<a href="productos.php?search=2&subs=40">
-
-										<span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-lighten">
-
-											<span class="thumb-info-wrapper">
-
-												<img src="img/blog/square/pavo5.jpg" class="img-fluid" alt="">
-
-												<span class="thumb-info-action">
-
-													
-												</span>
-
-											</span>
-
-										</span>
-
-										<span class="vacalogo">
-
-											<span class="">
-
-												<img src="img/home/pavo3.png" class="vacalogoimg" alt="">
-
-											</span>
-
-										</span>
-
-									</a>
-
-									<h5 class="text-uppercase2">pavo</h5>
-
-								</div>
-								<div class="col-lg-1">
-								</div>
-							</div>
+					<div class="row mb-5" style="padding-bottom: 341px;margin-left: 49px;">
+						<div class="col-lg-3" id="contenedor">
+							<a href="productos.php?search=2&subs=38">
+								<img src="img/blog/square/pollo_menu1.png" style="width: 216px;height: 332px;">
+								<img class="top" src="img/blog/square/pollo_menu2.png" style="width: 216px;height: 332px;">
+							</a>
+						</div>
+						<div class="col-lg-3" id="contenedor">
+							<a href="productos.php?search=2&subs=38">
+								<img src="img/blog/square/cedo_menu1.png" style="width: 216px;height: 332px;">
+								<img class="top" src="img/blog/square/cedo_menu2.png" style="width: 216px;height: 332px;">
+							</a>
+						</div>
+						<div class="col-lg-3" id="contenedor">
+							<a href="productos.php?search=2&subs=38">
+								<img src="img/blog/square/res_menu1.png" style="width: 216px;height: 332px;">
+								<img class="top" src="img/blog/square/res_menu2.png" style="width: 216px;height: 332px;">
+							</a>
+						</div>
+						<div class="col-lg-3" id="contenedor">
+							<a href="productos.php?search=2&subs=38">
+								<img src="img/blog/square/pavo_menu1.png" style="width: 216px;height: 332px;">
+								<img class="top" src="img/blog/square/pavo_menu2.png" style="width: 216px;height: 332px;">
+							</a>
+						</div>
+
+
+						<div class="row" style="--bs-gutter-x: 6.0rem;">
 
 						</div>
+
+
 
 					</div>
 
@@ -641,9 +461,9 @@
 
 										<div class="testimonial-author">
 
-											<p><strong class="font-weight-extra-bold text-2"><span class = "font-weight-extra-bold text-6-5-9">Octavio Salazar</span></p>
+											<p><strong class="font-weight-extra-bold text-2"><span class="font-weight-extra-bold text-6-5-9">Octavio Salazar</span></p>
 
-											<p><strong class="font-weight-extra-bold text-2"><span class = "text-6-5-3">CEO, Alimentos Mex S.A. de c.V.</span></p>
+											<p><strong class="font-weight-extra-bold text-2"><span class="text-6-5-3">CEO, Alimentos Mex S.A. de c.V.</span></p>
 
 										</div>
 
@@ -669,9 +489,9 @@
 
 										<div class="testimonial-author">
 
-											<p><strong class="font-weight-extra-bold text-2"><span class = "font-weight-extra-bold text-6-5-9">Octavio Salazar</span></p>
+											<p><strong class="font-weight-extra-bold text-2"><span class="font-weight-extra-bold text-6-5-9">Octavio Salazar</span></p>
 
-											<p><strong class="font-weight-extra-bold text-2"><span class = "text-6-5-3">CEO, Alimentos Mex S.A. de c.V.</span></p>
+											<p><strong class="font-weight-extra-bold text-2"><span class="text-6-5-3">CEO, Alimentos Mex S.A. de c.V.</span></p>
 
 										</div>
 
