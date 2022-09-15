@@ -344,7 +344,7 @@
 
 					</div>
 
-					<div class="row mb-5" style="padding-bottom: 341px;margin-left: 49px;">
+					<div class="row mb-5" id ="catdesktop" style="padding-bottom: 341px;margin-left: 49px;">
 						<div class="col-lg-3" id="contenedor">
 							<a href="productos.php?search=2&subs=38">
 								<img src="img/blog/square/pollo_menu1.png" style="width: 216px;height: 332px;">
@@ -378,6 +378,189 @@
 
 
 					</div>
+
+					<!-- tablet -->
+					<div id = "cattablet">
+						<div class="row mb-5" style="padding-bottom: 341px;margin-left: 49px;">
+							<div class="col-md-6" id="contenedor">
+								<a href="productos.php?search=2&subs=38">
+									<img src="img/blog/square/pollo_menu1.png" style="width: 216px;height: 332px;">
+									<img class="top" src="img/blog/square/pollo_menu2.png" style="width: 216px;height: 332px;">
+								</a>
+							</div>
+							<div class="col-md-6" id="contenedor">
+								<a href="productos.php?search=2&subs=38">
+									<img src="img/blog/square/cedo_menu1.png" style="width: 216px;height: 332px;">
+									<img class="top" src="img/blog/square/cedo_menu2.png" style="width: 216px;height: 332px;">
+								</a>
+							</div>
+							<!-- <div class="col-lg-3" id="contenedor">
+							<a href="productos.php?search=2&subs=38">
+								<img src="img/blog/square/res_menu1.png" style="width: 216px;height: 332px;">
+								<img class="top" src="img/blog/square/res_menu2.png" style="width: 216px;height: 332px;">
+							</a>
+						</div>
+						<div class="col-lg-3" id="contenedor">
+							<a href="productos.php?search=2&subs=38">
+								<img src="img/blog/square/pavo_menu1.png" style="width: 216px;height: 332px;">
+								<img class="top" src="img/blog/square/pavo_menu2.png" style="width: 216px;height: 332px;">
+							</a>
+						</div> -->
+
+
+							<div class="row" style="--bs-gutter-x: 6.0rem;">
+
+							</div>
+
+
+
+						</div>
+
+						<div class="row mb-5" style="padding-bottom: 341px;margin-left: 49px;">
+
+							<div class="col-md-6" id="contenedor">
+								<a href="productos.php?search=2&subs=38">
+									<img src="img/blog/square/res_menu1.png" style="width: 216px;height: 332px;">
+									<img class="top" src="img/blog/square/res_menu2.png" style="width: 216px;height: 332px;">
+								</a>
+							</div>
+							<div class="col-md-6" id="contenedor">
+								<a href="productos.php?search=2&subs=38">
+									<img src="img/blog/square/pavo_menu1.png" style="width: 216px;height: 332px;">
+									<img class="top" src="img/blog/square/pavo_menu2.png" style="width: 216px;height: 332px;">
+								</a>
+							</div>
+
+
+							<div class="row" style="--bs-gutter-x: 6.0rem;">
+
+							</div>
+
+
+
+						</div>
+
+					</div>
+
+
+					<!-- movil	 -->
+					<div id="catmovil">
+						<div class="row mb-5" style="padding-bottom: 341px;margin-left: 140px;">
+							<div class="col-md-6" id="contenedor">
+								<a href="productos.php?search=2&subs=38">
+									<img src="img/blog/square/pollo_menu1.png" style="width: 216px;height: 332px;">
+									<img class="top" src="img/blog/square/pollo_menu2.png" style="width: 216px;height: 332px;">
+								</a>
+							</div>
+						</div>
+
+						<div class="row mb-5" style="padding-bottom: 341px;margin-left: 140px;">
+							<div class="col-md-6" id="contenedor">
+								<a href="productos.php?search=2&subs=38">
+									<img src="img/blog/square/cedo_menu1.png" style="width: 216px;height: 332px;">
+									<img class="top" src="img/blog/square/cedo_menu2.png" style="width: 216px;height: 332px;">
+								</a>
+							</div>
+						</div>
+
+						<div class="row mb-5" style="padding-bottom: 341px;margin-left: 140px;">
+							<div class="col-md-6" id="contenedor">
+								<a href="productos.php?search=2&subs=38">
+									<img src="img/blog/square/res_menu1.png" style="width: 216px;height: 332px;">
+									<img class="top" src="img/blog/square/res_menu2.png" style="width: 216px;height: 332px;">
+								</a>
+							</div>
+						</div>
+
+						<div class="row mb-5" style="padding-bottom: 341px;margin-left: 140px;">
+							<div class="col-md-6" id="contenedor">
+								<a href="productos.php?search=2&subs=38">
+									<img src="img/blog/square/pavo_menu1.png" style="width: 216px;height: 332px;">
+									<img class="top" src="img/blog/square/pavo_menu2.png" style="width: 216px;height: 332px;">
+								</a>
+							</div>
+						</div>
+					</div>
+
+
+					<!-- movil mini -->
+					<div id="catmovilmin">
+						<div class="row mb-5" style="padding-bottom: 341px;margin-left: 110px;">
+							<div class="col-md-6" id="contenedor">
+								<a href="productos.php?search=2&subs=38">
+									<img src="img/blog/square/pollo_menu1.png" style="width: 216px;height: 332px;">
+									<img class="top" src="img/blog/square/pollo_menu2.png" style="width: 216px;height: 332px;">
+								</a>
+							</div>
+						</div>
+
+						<div class="row mb-5" style="padding-bottom: 341px;margin-left: 110px;">
+							<div class="col-md-6" id="contenedor">
+								<a href="productos.php?search=2&subs=38">
+									<img src="img/blog/square/cedo_menu1.png" style="width: 216px;height: 332px;">
+									<img class="top" src="img/blog/square/cedo_menu2.png" style="width: 216px;height: 332px;">
+								</a>
+							</div>
+						</div>
+
+						<div class="row mb-5" style="padding-bottom: 341px;margin-left: 110px;">
+							<div class="col-md-6" id="contenedor">
+								<a href="productos.php?search=2&subs=38">
+									<img src="img/blog/square/res_menu1.png" style="width: 216px;height: 332px;">
+									<img class="top" src="img/blog/square/res_menu2.png" style="width: 216px;height: 332px;">
+								</a>
+							</div>
+						</div>
+
+						<div class="row mb-5" style="padding-bottom: 341px;margin-left: 110px;">
+							<div class="col-md-6" id="contenedor">
+								<a href="productos.php?search=2&subs=38">
+									<img src="img/blog/square/pavo_menu1.png" style="width: 216px;height: 332px;">
+									<img class="top" src="img/blog/square/pavo_menu2.png" style="width: 216px;height: 332px;">
+								</a>
+							</div>
+						</div>
+					</div>
+
+					<div id="catmovilmin2">
+						<div class="row mb-5" style="padding-bottom: 341px;margin-left: 60px;">
+							<div class="col-md-6" id="contenedor">
+								<a href="productos.php?search=2&subs=38">
+									<img src="img/blog/square/pollo_menu1.png" style="width: 216px;height: 332px;">
+									<img class="top" src="img/blog/square/pollo_menu2.png" style="width: 216px;height: 332px;">
+								</a>
+							</div>
+						</div>
+
+						<div class="row mb-5" style="padding-bottom: 341px;margin-left: 60px;">
+							<div class="col-md-6" id="contenedor">
+								<a href="productos.php?search=2&subs=38">
+									<img src="img/blog/square/cedo_menu1.png" style="width: 216px;height: 332px;">
+									<img class="top" src="img/blog/square/cedo_menu2.png" style="width: 216px;height: 332px;">
+								</a>
+							</div>
+						</div>
+
+						<div class="row mb-5" style="padding-bottom: 341px;margin-left: 60px;">
+							<div class="col-md-6" id="contenedor">
+								<a href="productos.php?search=2&subs=38">
+									<img src="img/blog/square/res_menu1.png" style="width: 216px;height: 332px;">
+									<img class="top" src="img/blog/square/res_menu2.png" style="width: 216px;height: 332px;">
+								</a>
+							</div>
+						</div>
+
+						<div class="row mb-5" style="padding-bottom: 341px;margin-left: 60px;">
+							<div class="col-md-6" id="contenedor">
+								<a href="productos.php?search=2&subs=38">
+									<img src="img/blog/square/pavo_menu1.png" style="width: 216px;height: 332px;">
+									<img class="top" src="img/blog/square/pavo_menu2.png" style="width: 216px;height: 332px;">
+								</a>
+							</div>
+						</div>
+					</div>
+
+
 
 					<div class="row align-items-center">
 
