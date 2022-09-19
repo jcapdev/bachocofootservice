@@ -7994,7 +7994,7 @@ window.theme.fn = {
 	};
 
 	PluginVideoBackground.defaults = {
-		overlay: false,
+		overlay: true,
 		volume: 1,
 		playbackRate: 1,
 		muted: true,

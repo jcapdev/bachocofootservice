@@ -13127,6 +13127,7 @@ ul.nav-list li a {
     font-weight: normal !important;
     font-style: normal !important;
 	font-size: 16px !important;
+	text-transform: uppercase;
 
 }
 

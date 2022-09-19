@@ -11831,9 +11831,7 @@ html.gap-outside .pin-wrapper .sticky-wrapper.sticky-effect-active .sticky-body 
 
 
 
-#catdesktop{
-	display: block;
-}
+
 #cattablet{
 	display: none;
 }

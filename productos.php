@@ -93,7 +93,7 @@ if (isset($_GET['subs']) && !empty($_GET['subs']) and isset($_GET['search']) && 
 
                         <div class="container">
 
-                            <div class="row">
+                            <div class="row" style = "padding-bottom: 65px;">
 
                                 <!-- START STICKY NAV -->
 
@@ -127,7 +127,7 @@ if (isset($_GET['subs']) && !empty($_GET['subs']) and isset($_GET['search']) && 
 
                                 </div>
 
-                                <div class="col-lg-3 position-relative" style="display: none;">
+                                <!-- <div class="col-lg-3 position-relative" style="display: none;">
                                     <aside class="sidebar" id="sidebar" data-plugin-sticky data-plugin-options="{'minWidth': 991, 'containerSelector': '.container', 'padding': {'top': 110}}">
                                         <form action="productos.php" method="GET">
 
@@ -158,7 +158,7 @@ if (isset($_GET['subs']) && !empty($_GET['subs']) and isset($_GET['search']) && 
                                         </ul>
 
                                     </aside>
-                                </div>
+                                </div> -->
 
                                 <!-- END STICKY NAV -->
 
